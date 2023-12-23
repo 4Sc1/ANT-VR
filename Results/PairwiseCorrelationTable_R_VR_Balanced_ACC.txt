@@ -1,0 +1,288 @@
+----------------------------------------------------------------------------
+Pairwise correlation between ANT-R and ANT-VR Balanced (ACC)
+--------------------
+[1] "ANT-R vs ANT-VR Balanced, (ACC), Alerting"
+
+	Paired t-test
+
+data:  x and y
+t = -0.32655, df = 43, p-value = 0.7456
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -2.718103  1.960527
+sample estimates:
+mean difference 
+     -0.3787879 
+
+
+ANT-R vs ANT-VR Balanced, (ACC), Alerting: (M = -1.23, SD = 5.25) , (M = -0.85, SD = 4.89) , mean difference -0.38, 95%CI [-2.72, 1.96], t(43) = -0.33, p = 0.746, r(43) = -0.15, p = 0.324, Cohen's D = 0.049
+
+
+--------------------
+--------------------
+[1] "ANT-R vs ANT-VR Balanced, (ACC), Validity"
+
+	Paired t-test
+
+data:  x and y
+t = -2.5021, df = 43, p-value = 0.01623
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -3.3634437 -0.3613038
+sample estimates:
+mean difference 
+      -1.862374 
+
+
+ANT-R vs ANT-VR Balanced, (ACC), Validity: (M = -3.38, SD = 3.39) , (M = -1.52, SD = 4.27) , mean difference -1.86, 95%CI [-3.36, -0.36], t(43) = -2.5, p = 0.016, r(43) = 0.18, p = 0.23, Cohen's D = 0.377
+
+
+--------------------
+--------------------
+[1] "ANT-R vs ANT-VR Balanced, (ACC), Disengaging"
+
+	Paired t-test
+
+data:  x and y
+t = -0.23136, df = 43, p-value = 0.8181
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -2.300344  1.826859
+sample estimates:
+mean difference 
+     -0.2367424 
+
+
+ANT-R vs ANT-VR Balanced, (ACC), Disengaging: (M = -2.13, SD = 4.91) , (M = -1.89, SD = 4.31) , mean difference -0.24, 95%CI [-2.3, 1.83], t(43) = -0.23, p = 0.818, r(43) = -0.08, p = 0.602, Cohen's D = 0.035
+
+
+--------------------
+--------------------
+[1] "ANT-R vs ANT-VR Balanced, (ACC), Moving + Engaging"
+
+	Paired t-test
+
+data:  x and y
+t = -1.8622, df = 43, p-value = 0.06942
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -3.3861632  0.1349006
+sample estimates:
+mean difference 
+      -1.625631 
+
+
+ANT-R vs ANT-VR Balanced, (ACC), Moving + Engaging: (M = -1.25, SD = 3.97) , (M = 0.38, SD = 4.61) , mean difference -1.63, 95%CI [-3.39, 0.13], t(43) = -1.86, p = 0.069, r(43) = 0.09, p = 0.542, Cohen's D = 0.281
+
+
+--------------------
+--------------------
+[1] "ANT-R vs ANT-VR Balanced, (ACC), Orienting Time"
+
+	Paired t-test
+
+data:  x and y
+t = -0.97696, df = 43, p-value = 0.3341
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -3.917370  1.360551
+sample estimates:
+mean difference 
+      -1.278409 
+
+
+ANT-R vs ANT-VR Balanced, (ACC), Orienting Time: (M = -2.56, SD = 4.16) , (M = -1.28, SD = 7.93) , mean difference -1.28, 95%CI [-3.92, 1.36], t(43) = -0.98, p = 0.334, r(43) = 0.07, p = 0.638, Cohen's D = 0.147
+
+
+--------------------
+--------------------
+[1] "ANT-R vs ANT-VR Balanced, (ACC), Flanker Conflict"
+
+	Paired t-test
+
+data:  x and y
+t = -4.127, df = 43, p-value = 0.0001655
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -5.638836 -1.936922
+sample estimates:
+mean difference 
+      -3.787879 
+
+
+ANT-R vs ANT-VR Balanced, (ACC), Flanker Conflict: (M = -7.61, SD = 5.98) , (M = -3.82, SD = 5.79) , mean difference -3.79, 95%CI [-5.64, -1.94], t(43) = -4.13, p = < 0.001, r(43) = 0.47, p = 0.001, Cohen's D = 0.622
+
+
+--------------------
+--------------------
+[1] "ANT-R vs ANT-VR Balanced, (ACC), Location Conflict"
+
+	Paired t-test
+
+data:  x and y
+t = 0.27049, df = 43, p-value = 0.7881
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -1.018898  1.334555
+sample estimates:
+mean difference 
+      0.1578283 
+
+
+ANT-R vs ANT-VR Balanced, (ACC), Location Conflict: (M = -0.44, SD = 3.22) , (M = -0.6, SD = 4.51) , mean difference 0.16, 95%CI [-1.02, 1.33], t(43) = 0.27, p = 0.788, r(43) = 0.54, p = < 0.001, Cohen's D = 0.041
+
+
+--------------------
+--------------------
+[1] "ANT-R vs ANT-VR Balanced, (ACC), Flanker Conflict by Location Conflict"
+
+	Paired t-test
+
+data:  x and y
+t = 0.60998, df = 43, p-value = 0.5451
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -1.747108  3.262260
+sample estimates:
+mean difference 
+      0.7575758 
+
+
+ANT-R vs ANT-VR Balanced, (ACC), Flanker Conflict by Location Conflict: (M = -0.82, SD = 5.37) , (M = -1.58, SD = 7.52) , mean difference 0.76, 95%CI [-1.75, 3.26], t(43) = 0.61, p = 0.545, r(43) = 0.22, p = 0.159, Cohen's D = 0.092
+
+
+--------------------
+--------------------
+[1] "ANT-R vs ANT-VR Balanced, (ACC), Alerting by Flanker Conflict"
+
+	Paired t-test
+
+data:  x and y
+t = -0.99226, df = 43, p-value = 0.3266
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -8.040517  2.737487
+sample estimates:
+mean difference 
+      -2.651515 
+
+
+ANT-R vs ANT-VR Balanced, (ACC), Alerting by Flanker Conflict: (M = -1.33, SD = 10.08) , (M = 1.33, SD = 12.44) , mean difference -2.65, 95%CI [-8.04, 2.74], t(43) = -0.99, p = 0.327, r(43) = -0.23, p = 0.133, Cohen's D = 0.15
+
+
+--------------------
+--------------------
+[1] "ANT-R vs ANT-VR Balanced, (ACC), Orienting Time by Flanker Conflict"
+
+	Paired t-test
+
+data:  x and y
+t = 0.13969, df = 43, p-value = 0.8896
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -2.968916  3.410835
+sample estimates:
+mean difference 
+      0.2209596 
+
+
+ANT-R vs ANT-VR Balanced, (ACC), Orienting Time by Flanker Conflict: (M = -2.24, SD = 6.9) , (M = -2.46, SD = 8.63) , mean difference 0.22, 95%CI [-2.97, 3.41], t(43) = 0.14, p = 0.89, r(43) = 0.1, p = 0.511, Cohen's D = 0.021
+
+
+--------------------
+--------------------
+[1] "ANT-R vs ANT-VR Balanced, (ACC), Validity by Flanker Conflict"
+
+	Paired t-test
+
+data:  x and y
+t = -2.3709, df = 43, p-value = 0.0223
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -7.1267228 -0.5752974
+sample estimates:
+mean difference 
+       -3.85101 
+
+
+ANT-R vs ANT-VR Balanced, (ACC), Validity by Flanker Conflict: (M = -6.69, SD = 6.32) , (M = -2.84, SD = 8.98) , mean difference -3.85, 95%CI [-7.13, -0.58], t(43) = -2.37, p = 0.022, r(43) = 0.04, p = 0.801, Cohen's D = 0.357
+
+
+--------------------
+--------------------
+[1] "ANT-R vs ANT-VR Balanced, (ACC), Alerting by Location Conflict"
+
+	Paired t-test
+
+data:  x and y
+t = -0.79847, df = 43, p-value = 0.429
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -6.009683  2.600592
+sample estimates:
+mean difference 
+      -1.704545 
+
+
+ANT-R vs ANT-VR Balanced, (ACC), Alerting by Location Conflict: (M = -1.89, SD = 7.91) , (M = -0.19, SD = 11.71) , mean difference -1.7, 95%CI [-6.01, 2.6], t(43) = -0.8, p = 0.429, r(43) = 0, p = 0.98, Cohen's D = 0.12
+
+
+--------------------
+--------------------
+[1] "ANT-R vs ANT-VR Balanced, (ACC), Orienting Time by Location Conflict"
+
+	Paired t-test
+
+data:  x and y
+t = 0.3541, df = 43, p-value = 0.725
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -2.519518  3.592750
+sample estimates:
+mean difference 
+      0.5366162 
+
+
+ANT-R vs ANT-VR Balanced, (ACC), Orienting Time by Location Conflict: (M = 1.1, SD = 5.66) , (M = 0.57, SD = 8.12) , mean difference 0.54, 95%CI [-2.52, 3.59], t(43) = 0.35, p = 0.725, r(43) = -0.03, p = 0.824, Cohen's D = 0.053
+
+
+--------------------
+--------------------
+[1] "ANT-R vs ANT-VR Balanced, (ACC), Inhibition Of Return"
+
+	Paired t-test
+
+data:  x and y
+t = -1.2221, df = 43, p-value = 0.2283
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -7.403592  1.816470
+sample estimates:
+mean difference 
+      -2.793561 
+
+
+ANT-R vs ANT-VR Balanced, (ACC), Inhibition Of Return: (M = -0.95, SD = 10.67) , (M = 1.85, SD = 11.64) , mean difference -2.79, 95%CI [-7.4, 1.82], t(43) = -1.22, p = 0.228, r(43) = 0.08, p = 0.616, Cohen's D = 0.184
+
+
+--------------------
+--------------------
+[1] "ANT-R vs ANT-VR Balanced, (ACC), Mean ACC"
+
+	Paired t-test
+
+data:  x and y
+t = 0.82736, df = 43, p-value = 0.4126
+alternative hypothesis: true mean difference is not equal to 0
+95 percent confidence interval:
+ -0.5671986  1.3563400
+sample estimates:
+mean difference 
+      0.3945707 
+
+
+ANT-R vs ANT-VR Balanced, (ACC), Mean ACC: (M = 95.23, SD = 3.45) , (M = 94.84, SD = 3.93) , mean difference 0.39, 95%CI [-0.57, 1.36], t(43) = 0.83, p = 0.413, r(43) = 0.64, p = < 0.001, Cohen's D = 0.125
+
+
+--------------------
+----------------------------------------------------------------------------

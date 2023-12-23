@@ -1,0 +1,644 @@
+----------------------------------------------------------------------------
+Within-subject ANOVAs: Alerting by Conflict
+
+ANT-R (RT)
+ANOVA Table (type III tests)
+
+$ANOVA
+                                            Effect DFn DFd       F                              p p<.05   pes
+1                                      CueToTarget   3 129  53.580 0.0000000000000000000001470000     * 0.555
+2                                FlankerCongruency   1  43 579.982 0.0000000000000000000000000137     * 0.931
+3                               LocationCongruency   1  43   0.071 0.7910000000000000364153152077       0.002
+4                    CueToTarget:FlankerCongruency   3 129   6.873 0.0002489999999999999808972251     * 0.138
+5                   CueToTarget:LocationCongruency   3 129   3.344 0.0210000000000000013045120539     * 0.072
+6             FlankerCongruency:LocationCongruency   1  43   2.160 0.1489999999999999935607064572       0.048
+7 CueToTarget:FlankerCongruency:LocationCongruency   3 129   6.684 0.0003139999999999999887555224     * 0.135
+
+$`Mauchly's Test for Sphericity`
+                                            Effect     W     p p<.05
+1                                      CueToTarget 0.819 0.139      
+2                    CueToTarget:FlankerCongruency 0.793 0.084      
+3                   CueToTarget:LocationCongruency 0.780 0.066      
+4 CueToTarget:FlankerCongruency:LocationCongruency 0.876 0.358      
+
+$`Sphericity Corrections`
+                                            Effect   GGe       DF[GG]                    p[GG] p[GG]<.05   HFe       DF[HF]
+1                                      CueToTarget 0.887 2.66, 114.38 0.0000000000000000000282         * 0.951 2.85, 122.63
+2                    CueToTarget:FlankerCongruency 0.875 2.63, 112.91 0.0005090000000000000123         * 0.937 2.81, 120.92
+3                   CueToTarget:LocationCongruency 0.876 2.63, 113.07 0.0269999999999999996947         * 0.939  2.82, 121.1
+4 CueToTarget:FlankerCongruency:LocationCongruency 0.929  2.79, 119.8 0.0004650000000000000270         * 1.000    3, 128.94
+                      p[HF] p[HF]<.05
+1 0.00000000000000000000145         *
+2 0.00035599999999999997966         *
+3 0.02400000000000000049960         *
+4 0.00031500000000000001306         *
+
+ANOVA results for reporting: 
+CueToTarget: F(3,129) = 53.58, p < 0.001, ηp² = 0.555
+FlankerCongruency: F(1,43) = 579.98, p < 0.001, ηp² = 0.931
+LocationCongruency: F(1,43) = 0.07, p > 0.05, ηp² = 0.002
+CueToTarget:FlankerCongruency: F(3,129) = 6.87, p < 0.001, ηp² = 0.138
+CueToTarget:LocationCongruency: F(3,129) = 3.34, p < 0.05, ηp² = 0.072
+FlankerCongruency:LocationCongruency: F(1,43) = 2.16, p > 0.05, ηp² = 0.048
+CueToTarget:FlankerCongruency:LocationCongruency: F(3,129) = 6.68, p < 0.001, ηp² = 0.135
+
+Main Effects
+     CueToTarget
+     no-cue = 655.85
+     double-cue = 609.41
+     0 = 624.57
+     400 = 602.77
+     800 = 600.9
+
+     FlankerCongruency
+     congruent = 553.44
+     incongruent = 688.61
+
+     LocationCongruency
+     congruent = 620.49
+     incongruent = 621.56
+
+     CueToTarget : FlankerCongruency
+     no-cue : congruent = 585.17
+     double-cue : congruent = 542.86
+     0 : congruent = 559.97
+     400 : congruent = 524.53
+     800 : congruent = 544.07
+     no-cue : incongruent = 726.53
+     double-cue : incongruent = 675.97
+     0 : incongruent = 689.17
+     400 : incongruent = 681
+     800 : incongruent = 657.73
+
+     CueToTarget : LocationCongruency
+     no-cue : congruent = 652.28
+     double-cue : congruent = 609.89
+     0 : congruent = 626.75
+     400 : congruent = 594.54
+     800 : congruent = 608.37
+     no-cue : incongruent = 659.41
+     double-cue : incongruent = 608.94
+     0 : incongruent = 622.39
+     400 : incongruent = 610.99
+     800 : incongruent = 593.43
+
+     FlankerCongruency : LocationCongruency
+     congruent : congruent = 550.08
+     congruent : incongruent = 556.8
+     incongruent : congruent = 690.89
+     incongruent : incongruent = 686.32
+
+     CueToTarget : FlankerCongruency : LocationCongruency
+     no-cue : congruent : congruent = 590.93
+     double-cue : congruent : congruent = 536.46
+     0 : congruent : congruent = 551.41
+     400 : congruent : congruent = 509.98
+     800 : congruent : congruent = 547.99
+     no-cue : incongruent : congruent = 713.64
+     double-cue : incongruent : congruent = 683.31
+     0 : incongruent : congruent = 702.08
+     400 : incongruent : congruent = 679.11
+     800 : incongruent : congruent = 668.75
+     no-cue : congruent : incongruent = 579.41
+     double-cue : congruent : incongruent = 549.26
+     0 : congruent : incongruent = 568.53
+     400 : congruent : incongruent = 539.09
+     800 : congruent : incongruent = 540.15
+     no-cue : incongruent : incongruent = 739.42
+     double-cue : incongruent : incongruent = 668.62
+     0 : incongruent : incongruent = 676.25
+     400 : incongruent : incongruent = 682.9
+     800 : incongruent : incongruent = 646.71
+
+
+
+ANT-R (ACC)
+ANOVA Table (type III tests)
+
+$ANOVA
+                                            Effect DFn DFd      F             p p<.05   pes
+1                                      CueToTarget   3 129  2.719 0.04700000000     * 0.059
+2                                FlankerCongruency   1  43 52.201 0.00000000609     * 0.548
+3                               LocationCongruency   1  43  0.384 0.53900000000       0.009
+4                    CueToTarget:FlankerCongruency   3 129  5.233 0.00200000000     * 0.108
+5                   CueToTarget:LocationCongruency   3 129  1.406 0.24400000000       0.032
+6             FlankerCongruency:LocationCongruency   1  43  4.475 0.04000000000     * 0.094
+7 CueToTarget:FlankerCongruency:LocationCongruency   3 129  0.690 0.56000000000       0.016
+
+$`Mauchly's Test for Sphericity`
+                                            Effect     W        p p<.05
+1                                      CueToTarget 0.874 0.343000      
+2                    CueToTarget:FlankerCongruency 0.930 0.695000      
+3                   CueToTarget:LocationCongruency 0.577 0.000344     *
+4 CueToTarget:FlankerCongruency:LocationCongruency 0.698 0.010000     *
+
+$`Sphericity Corrections`
+                                            Effect   GGe       DF[GG] p[GG] p[GG]<.05   HFe       DF[HF] p[HF] p[HF]<.05
+1                                      CueToTarget 0.921  2.76, 118.8 0.052           0.990 2.97, 127.77 0.048         *
+2                    CueToTarget:FlankerCongruency 0.953 2.86, 122.98 0.002         * 1.028 3.09, 132.66 0.002         *
+3                   CueToTarget:LocationCongruency 0.721     2.16, 93 0.250           0.760   2.28, 98.1 0.250          
+4 CueToTarget:FlankerCongruency:LocationCongruency 0.793 2.38, 102.33 0.528           0.843 2.53, 108.73 0.536          
+
+ANOVA results for reporting: 
+CueToTarget: F(3,129) = 2.72, p < 0.05, ηp² = 0.059
+FlankerCongruency: F(1,43) = 52.2, p < 0.001, ηp² = 0.548
+LocationCongruency: F(1,43) = 0.38, p > 0.05, ηp² = 0.009
+CueToTarget:FlankerCongruency: F(3,129) = 5.23, p < 0.01, ηp² = 0.108
+CueToTarget:LocationCongruency: F(3,129) = 1.41, p > 0.05, ηp² = 0.032
+FlankerCongruency:LocationCongruency: F(1,43) = 4.48, p < 0.05, ηp² = 0.094
+CueToTarget:FlankerCongruency:LocationCongruency: F(3,129) = 0.69, p > 0.05, ηp² = 0.016
+
+Main Effects
+     CueToTarget
+     no-cue = 93.94
+     double-cue = 95.17
+     0 = 95.31
+     400 = 93.89
+     800 = 96.31
+
+     FlankerCongruency
+     congruent = 98.91
+     incongruent = 90.81
+
+     LocationCongruency
+     congruent = 95.1
+     incongruent = 94.63
+
+     CueToTarget : FlankerCongruency
+     no-cue : congruent = 98.48
+     double-cue : congruent = 99.05
+     0 : congruent = 99.72
+     400 : congruent = 99.43
+     800 : congruent = 98.01
+     no-cue : incongruent = 89.39
+     double-cue : incongruent = 91.29
+     0 : incongruent = 90.91
+     400 : incongruent = 88.35
+     800 : incongruent = 94.6
+
+     CueToTarget : LocationCongruency
+     no-cue : congruent = 94.89
+     double-cue : congruent = 95.17
+     0 : congruent = 96.31
+     400 : congruent = 93.75
+     800 : congruent = 95.45
+     no-cue : incongruent = 92.99
+     double-cue : incongruent = 95.17
+     0 : incongruent = 94.32
+     400 : incongruent = 94.03
+     800 : incongruent = 97.16
+
+     FlankerCongruency : LocationCongruency
+     congruent : congruent = 98.44
+     congruent : incongruent = 99.38
+     incongruent : congruent = 91.76
+     incongruent : incongruent = 89.87
+
+     CueToTarget : FlankerCongruency : LocationCongruency
+     no-cue : congruent : congruent = 98.3
+     double-cue : congruent : congruent = 98.48
+     0 : congruent : congruent = 99.43
+     400 : congruent : congruent = 98.86
+     800 : congruent : congruent = 97.16
+     no-cue : incongruent : congruent = 91.48
+     double-cue : incongruent : congruent = 91.86
+     0 : incongruent : congruent = 93.18
+     400 : incongruent : congruent = 88.64
+     800 : incongruent : congruent = 93.75
+     no-cue : congruent : incongruent = 98.67
+     double-cue : congruent : incongruent = 99.62
+     0 : congruent : incongruent = 100
+     400 : congruent : incongruent = 100
+     800 : congruent : incongruent = 98.86
+     no-cue : incongruent : incongruent = 87.31
+     double-cue : incongruent : incongruent = 90.72
+     0 : incongruent : incongruent = 88.64
+     400 : incongruent : incongruent = 88.07
+     800 : incongruent : incongruent = 95.45
+
+
+
+ANT-VR (RT)
+ANOVA Table (type III tests)
+
+$ANOVA
+                                            Effect DFn DFd       F                     p p<.05   pes
+1                                      CueToTarget   3 129  19.108 0.0000000002580000000     * 0.308
+2                                FlankerCongruency   1  43 185.162 0.0000000000000000349     * 0.812
+3                               LocationCongruency   1  43   0.299 0.5869999999999999662       0.007
+4                    CueToTarget:FlankerCongruency   3 129   1.579 0.1980000000000000093       0.035
+5                   CueToTarget:LocationCongruency   3 129   0.884 0.4510000000000000120       0.020
+6             FlankerCongruency:LocationCongruency   1  43   1.705 0.1990000000000000102       0.038
+7 CueToTarget:FlankerCongruency:LocationCongruency   3 129   1.502 0.2169999999999999984       0.034
+
+$`Mauchly's Test for Sphericity`
+                                            Effect     W        p p<.05
+1                                      CueToTarget 0.586 0.000467     *
+2                    CueToTarget:FlankerCongruency 0.778 0.063000      
+3                   CueToTarget:LocationCongruency 0.875 0.349000      
+4 CueToTarget:FlankerCongruency:LocationCongruency 0.773 0.057000      
+
+$`Sphericity Corrections`
+                                            Effect   GGe       DF[GG]        p[GG] p[GG]<.05   HFe       DF[HF]        p[HF] p[HF]<.05
+1                                      CueToTarget 0.742  2.23, 95.68 0.0000000331         * 0.784 2.35, 101.13 0.0000000149         *
+2                    CueToTarget:FlankerCongruency 0.853 2.56, 110.04 0.2040000000           0.912  2.73, 117.6 0.2020000000          
+3                   CueToTarget:LocationCongruency 0.927 2.78, 119.53 0.4450000000           0.997 2.99, 128.62 0.4510000000          
+4 CueToTarget:FlankerCongruency:LocationCongruency 0.861 2.58, 111.09 0.2220000000           0.921 2.76, 118.81 0.2200000000          
+
+ANOVA results for reporting: 
+CueToTarget: F(3,129) = 19.11, p < 0.001, ηp² = 0.308
+FlankerCongruency: F(1,43) = 185.16, p < 0.001, ηp² = 0.812
+LocationCongruency: F(1,43) = 0.3, p > 0.05, ηp² = 0.007
+CueToTarget:FlankerCongruency: F(3,129) = 1.58, p > 0.05, ηp² = 0.035
+CueToTarget:LocationCongruency: F(3,129) = 0.88, p > 0.05, ηp² = 0.02
+FlankerCongruency:LocationCongruency: F(1,43) = 1.71, p > 0.05, ηp² = 0.038
+CueToTarget:FlankerCongruency:LocationCongruency: F(3,129) = 1.5, p > 0.05, ηp² = 0.034
+
+Main Effects
+     CueToTarget
+     no-cue = 700.55
+     double-cue = 668.85
+     0 = 682.99
+     400 = 662.61
+     800 = 660.95
+
+     FlankerCongruency
+     congruent = 646.26
+     incongruent = 707.29
+
+     LocationCongruency
+     congruent = 675.09
+     incongruent = 678.45
+
+     CueToTarget : FlankerCongruency
+     no-cue : congruent = 669.43
+     double-cue : congruent = 638.54
+     0 : congruent = 650.48
+     400 : congruent = 638.45
+     800 : congruent = 626.68
+     no-cue : incongruent = 731.67
+     double-cue : incongruent = 699.16
+     0 : incongruent = 715.5
+     400 : incongruent = 686.76
+     800 : incongruent = 695.22
+
+     CueToTarget : LocationCongruency
+     no-cue : congruent = 702.81
+     double-cue : congruent = 665.86
+     0 : congruent = 683.65
+     400 : congruent = 660.31
+     800 : congruent = 653.6
+     no-cue : incongruent = 698.29
+     double-cue : incongruent = 671.84
+     0 : incongruent = 682.33
+     400 : incongruent = 664.9
+     800 : incongruent = 668.3
+
+     FlankerCongruency : LocationCongruency
+     congruent : congruent = 647.82
+     congruent : incongruent = 644.69
+     incongruent : congruent = 702.36
+     incongruent : incongruent = 712.21
+
+     CueToTarget : FlankerCongruency : LocationCongruency
+     no-cue : congruent : congruent = 666.97
+     double-cue : congruent : congruent = 641.44
+     0 : congruent : congruent = 653.81
+     400 : congruent : congruent = 645.21
+     800 : congruent : congruent = 625.31
+     no-cue : incongruent : congruent = 738.65
+     double-cue : incongruent : congruent = 690.27
+     0 : incongruent : congruent = 713.5
+     400 : incongruent : congruent = 675.41
+     800 : incongruent : congruent = 681.9
+     no-cue : congruent : incongruent = 671.89
+     double-cue : congruent : incongruent = 635.63
+     0 : congruent : incongruent = 647.14
+     400 : congruent : incongruent = 631.69
+     800 : congruent : incongruent = 628.05
+     no-cue : incongruent : incongruent = 724.69
+     double-cue : incongruent : incongruent = 708.06
+     0 : incongruent : incongruent = 717.51
+     400 : incongruent : incongruent = 698.11
+     800 : incongruent : incongruent = 708.55
+
+
+
+ANT-VR (ACC)
+ANOVA Table (type III tests)
+
+$ANOVA
+                                            Effect DFn DFd      F        p p<.05   pes
+1                                      CueToTarget   3 129  1.314 0.273000       0.030
+2                                FlankerCongruency   1  43 17.661 0.000131     * 0.291
+3                               LocationCongruency   1  43  1.421 0.240000       0.032
+4                    CueToTarget:FlankerCongruency   3 129  1.072 0.364000       0.024
+5                   CueToTarget:LocationCongruency   3 129  1.983 0.120000       0.044
+6             FlankerCongruency:LocationCongruency   1  43  2.649 0.111000       0.058
+7 CueToTarget:FlankerCongruency:LocationCongruency   3 129  3.012 0.033000     * 0.065
+
+$`Mauchly's Test for Sphericity`
+                                            Effect     W     p p<.05
+1                                      CueToTarget 0.911 0.568      
+2                    CueToTarget:FlankerCongruency 0.731 0.023     *
+3                   CueToTarget:LocationCongruency 0.765 0.048     *
+4 CueToTarget:FlankerCongruency:LocationCongruency 0.636 0.002     *
+
+$`Sphericity Corrections`
+                                            Effect   GGe       DF[GG] p[GG] p[GG]<.05   HFe       DF[HF] p[HF] p[HF]<.05
+1                                      CueToTarget 0.941 2.82, 121.34 0.273           1.013 3.04, 130.74 0.273          
+2                    CueToTarget:FlankerCongruency 0.820 2.46, 105.81 0.356           0.874 2.62, 112.72 0.359          
+3                   CueToTarget:LocationCongruency 0.867  2.6, 111.86 0.129           0.928 2.78, 119.71 0.125          
+4 CueToTarget:FlankerCongruency:LocationCongruency 0.776 2.33, 100.08 0.046         * 0.823 2.47, 106.15 0.043         *
+
+ANOVA results for reporting: 
+CueToTarget: F(3,129) = 1.31, p > 0.05, ηp² = 0.03
+FlankerCongruency: F(1,43) = 17.66, p < 0.001, ηp² = 0.291
+LocationCongruency: F(1,43) = 1.42, p > 0.05, ηp² = 0.032
+CueToTarget:FlankerCongruency: F(3,129) = 1.07, p > 0.05, ηp² = 0.024
+CueToTarget:LocationCongruency: F(3,129) = 1.98, p > 0.05, ηp² = 0.044
+FlankerCongruency:LocationCongruency: F(1,43) = 2.65, p > 0.05, ηp² = 0.058
+CueToTarget:FlankerCongruency:LocationCongruency: F(3,129) = 3.01, p < 0.05, ηp² = 0.065
+
+Main Effects
+     CueToTarget
+     no-cue = 94.51
+     double-cue = 95.69
+     0 = 95.88
+     400 = 95.17
+     800 = 96.02
+
+     FlankerCongruency
+     congruent = 96.85
+     incongruent = 93.94
+
+     LocationCongruency
+     congruent = 95.95
+     incongruent = 94.84
+
+     CueToTarget : FlankerCongruency
+     no-cue : congruent = 96.5
+     double-cue : congruent = 96.97
+     0 : congruent = 97.44
+     400 : congruent = 95.45
+     800 : congruent = 98.01
+     no-cue : incongruent = 92.52
+     double-cue : incongruent = 94.41
+     0 : incongruent = 94.32
+     400 : incongruent = 94.89
+     800 : incongruent = 94.03
+
+     CueToTarget : LocationCongruency
+     no-cue : congruent = 95.45
+     double-cue : congruent = 96.12
+     0 : congruent = 95.74
+     400 : congruent = 94.89
+     800 : congruent = 97.73
+     no-cue : incongruent = 93.56
+     double-cue : incongruent = 95.27
+     0 : incongruent = 96.02
+     400 : incongruent = 95.45
+     800 : incongruent = 94.32
+
+     FlankerCongruency : LocationCongruency
+     congruent : congruent = 96.88
+     congruent : incongruent = 96.83
+     incongruent : congruent = 95.03
+     incongruent : incongruent = 92.85
+
+     CueToTarget : FlankerCongruency : LocationCongruency
+     no-cue : congruent : congruent = 96.59
+     double-cue : congruent : congruent = 96.97
+     0 : congruent : congruent = 98.3
+     400 : congruent : congruent = 94.89
+     800 : congruent : congruent = 97.73
+     no-cue : incongruent : congruent = 94.32
+     double-cue : incongruent : congruent = 95.27
+     0 : incongruent : congruent = 93.18
+     400 : incongruent : congruent = 94.89
+     800 : incongruent : congruent = 97.73
+     no-cue : congruent : incongruent = 96.4
+     double-cue : congruent : incongruent = 96.97
+     0 : congruent : incongruent = 96.59
+     400 : congruent : incongruent = 96.02
+     800 : congruent : incongruent = 98.3
+     no-cue : incongruent : incongruent = 90.72
+     double-cue : incongruent : incongruent = 93.56
+     0 : incongruent : incongruent = 95.45
+     400 : incongruent : incongruent = 94.89
+     800 : incongruent : incongruent = 90.34
+
+
+
+ANT-VR B (RT)
+ANOVA Table (type III tests)
+
+$ANOVA
+                                            Effect DFn DFd      F               p p<.05   pes
+1                                      CueToTarget   3 123  8.549 0.0000335000000     * 0.173
+2                                FlankerCongruency   1  41 79.292 0.0000000000394     * 0.659
+3                               LocationCongruency   1  41  0.882 0.3530000000000       0.021
+4                    CueToTarget:FlankerCongruency   3 123  0.628 0.5980000000000       0.015
+5                   CueToTarget:LocationCongruency   3 123  0.815 0.4880000000000       0.019
+6             FlankerCongruency:LocationCongruency   1  41  0.249 0.6200000000000       0.006
+7 CueToTarget:FlankerCongruency:LocationCongruency   3 123  0.633 0.5950000000000       0.015
+
+$`Mauchly's Test for Sphericity`
+                                            Effect     W        p p<.05
+1                                      CueToTarget 0.595 0.000947     *
+2                    CueToTarget:FlankerCongruency 0.653 0.005000     *
+3                   CueToTarget:LocationCongruency 0.822 0.170000      
+4 CueToTarget:FlankerCongruency:LocationCongruency 0.839 0.224000      
+
+$`Sphericity Corrections`
+                                            Effect   GGe       DF[GG]    p[GG] p[GG]<.05   HFe       DF[HF]     p[HF] p[HF]<.05
+1                                      CueToTarget 0.818 2.45, 100.59 0.000134         * 0.874 2.62, 107.47 0.0000873         *
+2                    CueToTarget:FlankerCongruency 0.818 2.45, 100.58 0.567000           0.874 2.62, 107.47 0.5770000          
+3                   CueToTarget:LocationCongruency 0.904 2.71, 111.15 0.478000           0.974 2.92, 119.78 0.4850000          
+4 CueToTarget:FlankerCongruency:LocationCongruency 0.911  2.73, 112.1 0.581000           0.983 2.95, 120.89 0.5930000          
+
+ANOVA results for reporting: 
+CueToTarget: F(3,123) = 8.55, p < 0.001, ηp² = 0.173
+FlankerCongruency: F(1,41) = 79.29, p < 0.001, ηp² = 0.659
+LocationCongruency: F(1,41) = 0.88, p > 0.05, ηp² = 0.021
+CueToTarget:FlankerCongruency: F(3,123) = 0.63, p > 0.05, ηp² = 0.015
+CueToTarget:LocationCongruency: F(3,123) = 0.82, p > 0.05, ηp² = 0.019
+FlankerCongruency:LocationCongruency: F(1,41) = 0.25, p > 0.05, ηp² = 0.006
+CueToTarget:FlankerCongruency:LocationCongruency: F(3,123) = 0.63, p > 0.05, ηp² = 0.015
+
+Main Effects
+     CueToTarget
+     no-cue = 692.08
+     double-cue = 657.65
+     0 = 668.03
+     400 = 646.55
+     800 = 658.49
+
+     FlankerCongruency
+     congruent = 636.34
+     incongruent = 696.4
+
+     LocationCongruency
+     congruent = 668.03
+     incongruent = 664.53
+
+     CueToTarget : FlankerCongruency
+     no-cue : congruent = 658.49
+     double-cue : congruent = 628.95
+     0 : congruent = 635.3
+     400 : congruent = 618.76
+     800 : congruent = 632.81
+     no-cue : incongruent = 725.67
+     double-cue : incongruent = 686.57
+     0 : incongruent = 701.51
+     400 : incongruent = 674.35
+     800 : incongruent = 684.18
+
+     CueToTarget : LocationCongruency
+     no-cue : congruent = 687.61
+     double-cue : congruent = 661.5
+     0 : congruent = 679.07
+     400 : congruent = 650.22
+     800 : congruent = 655.2
+     no-cue : incongruent = 696.56
+     double-cue : incongruent = 653.78
+     0 : incongruent = 656.72
+     400 : incongruent = 642.89
+     800 : incongruent = 661.79
+
+     FlankerCongruency : LocationCongruency
+     congruent : congruent = 635.38
+     congruent : incongruent = 637.3
+     incongruent : congruent = 700.67
+     incongruent : incongruent = 692.08
+
+     CueToTarget : FlankerCongruency : LocationCongruency
+     no-cue : congruent : congruent = 650.47
+     double-cue : congruent : congruent = 630.35
+     0 : congruent : congruent = 647.52
+     400 : congruent : congruent = 625.41
+     800 : congruent : congruent = 618.13
+     no-cue : incongruent : congruent = 724.75
+     double-cue : incongruent : congruent = 692.64
+     0 : incongruent : congruent = 710.63
+     400 : incongruent : congruent = 675.03
+     800 : incongruent : congruent = 692.27
+     no-cue : congruent : incongruent = 666.52
+     double-cue : congruent : incongruent = 627.56
+     0 : congruent : incongruent = 623.08
+     400 : congruent : incongruent = 612.1
+     800 : congruent : incongruent = 647.49
+     no-cue : incongruent : incongruent = 726.6
+     double-cue : incongruent : incongruent = 680.4
+     0 : incongruent : incongruent = 691.96
+     400 : incongruent : incongruent = 673.67
+     800 : incongruent : incongruent = 676.09
+
+
+
+ANT-VR B (ACC)
+ANOVA Table (type III tests)
+
+$ANOVA
+                                            Effect DFn DFd      F        p p<.05      pes
+1                                      CueToTarget   3 129  2.841 0.040000     * 0.062000
+2                                FlankerCongruency   1  43 17.448 0.000142     * 0.289000
+3                               LocationCongruency   1  43  0.067 0.797000       0.002000
+4                    CueToTarget:FlankerCongruency   3 129  3.301 0.023000     * 0.071000
+5                   CueToTarget:LocationCongruency   3 129  0.022 0.996000       0.000515
+6             FlankerCongruency:LocationCongruency   1  43  2.829 0.100000       0.062000
+7 CueToTarget:FlankerCongruency:LocationCongruency   3 129  2.174 0.094000       0.048000
+
+$`Mauchly's Test for Sphericity`
+                                            Effect     W        p p<.05
+1                                      CueToTarget 0.724 0.019000     *
+2                    CueToTarget:FlankerCongruency 0.761 0.044000     *
+3                   CueToTarget:LocationCongruency 0.555 0.000169     *
+4 CueToTarget:FlankerCongruency:LocationCongruency 0.815 0.128000      
+
+$`Sphericity Corrections`
+                                            Effect   GGe       DF[GG] p[GG] p[GG]<.05   HFe       DF[HF] p[HF] p[HF]<.05
+1                                      CueToTarget 0.846 2.54, 109.12 0.050         * 0.903 2.71, 116.53 0.046         *
+2                    CueToTarget:FlankerCongruency 0.860    2.58, 111 0.029         * 0.920 2.76, 118.71 0.026         *
+3                   CueToTarget:LocationCongruency 0.720  2.16, 92.83 0.983           0.759  2.28, 97.91 0.986          
+4 CueToTarget:FlankerCongruency:LocationCongruency 0.870 2.61, 112.23 0.104           0.931 2.79, 120.13 0.099          
+
+ANOVA results for reporting: 
+CueToTarget: F(3,129) = 2.84, p < 0.05, ηp² = 0.062
+FlankerCongruency: F(1,43) = 17.45, p < 0.001, ηp² = 0.289
+LocationCongruency: F(1,43) = 0.07, p > 0.05, ηp² = 0.002
+CueToTarget:FlankerCongruency: F(3,129) = 3.3, p < 0.05, ηp² = 0.071
+CueToTarget:LocationCongruency: F(3,129) = 0.02, p > 0.05, ηp² = 0.001
+FlankerCongruency:LocationCongruency: F(1,43) = 2.83, p > 0.05, ηp² = 0.062
+CueToTarget:FlankerCongruency:LocationCongruency: F(3,129) = 2.17, p > 0.05, ηp² = 0.048
+
+Main Effects
+     CueToTarget
+     no-cue = 94.89
+     double-cue = 95.74
+     0 = 93.75
+     400 = 96.31
+     800 = 97.16
+
+     FlankerCongruency
+     congruent = 97.73
+     incongruent = 93.32
+
+     LocationCongruency
+     congruent = 95.64
+     incongruent = 95.41
+
+     CueToTarget : FlankerCongruency
+     no-cue : congruent = 96.59
+     double-cue : congruent = 98.11
+     0 : congruent = 98.86
+     400 : congruent = 97.73
+     800 : congruent = 97.73
+     no-cue : incongruent = 93.18
+     double-cue : incongruent = 93.37
+     0 : incongruent = 88.64
+     400 : incongruent = 94.89
+     800 : incongruent = 96.59
+
+     CueToTarget : LocationCongruency
+     no-cue : congruent = 95.08
+     double-cue : congruent = 95.83
+     0 : congruent = 93.75
+     400 : congruent = 96.59
+     800 : congruent = 97.16
+     no-cue : incongruent = 94.7
+     double-cue : incongruent = 95.64
+     0 : incongruent = 93.75
+     400 : incongruent = 96.02
+     800 : incongruent = 97.16
+
+     FlankerCongruency : LocationCongruency
+     congruent : congruent = 97.06
+     congruent : incongruent = 98.39
+     incongruent : congruent = 94.22
+     incongruent : incongruent = 92.42
+
+     CueToTarget : FlankerCongruency : LocationCongruency
+     no-cue : congruent : congruent = 97.35
+     double-cue : congruent : congruent = 96.97
+     0 : congruent : congruent = 97.73
+     400 : congruent : congruent = 95.45
+     800 : congruent : congruent = 97.73
+     no-cue : incongruent : congruent = 92.8
+     double-cue : incongruent : congruent = 94.7
+     0 : incongruent : congruent = 89.77
+     400 : incongruent : congruent = 97.73
+     800 : incongruent : congruent = 96.59
+     no-cue : congruent : incongruent = 95.83
+     double-cue : congruent : incongruent = 99.24
+     0 : congruent : incongruent = 100
+     400 : congruent : incongruent = 100
+     800 : congruent : incongruent = 97.73
+     no-cue : incongruent : incongruent = 93.56
+     double-cue : incongruent : incongruent = 92.05
+     0 : incongruent : incongruent = 87.5
+     400 : incongruent : incongruent = 92.05
+     800 : incongruent : incongruent = 96.59
+
+
+----------------------------------------------------------------------------

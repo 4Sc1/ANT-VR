@@ -1,0 +1,1827 @@
+----------------------------------------------------------------------------
+Network And Interaction Effects: Two-tailed One Sample T-test
+ANT-R Alerting (RT)
+
+	One Sample t-test
+
+data:  values
+t = 14.018, df = 43, p-value < 0.00000000000000022
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 38.28014 51.14550
+sample estimates:
+mean of x 
+ 44.71282 
+
+n: 44
+sd: 21.1582004831282
+cohen's D: 2.11326177570581
+ANT-R Alerting (RT): (M = 44.71, SD = 21.16) , t(43) = 14.02, p = < 0.001, Cohen's D = 2.113
+
+
+ANT-R Alerting (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -1.5566, df = 43, p-value = 0.1269
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -2.8259468  0.3638256
+sample estimates:
+mean of x 
+-1.231061 
+
+n: 44
+sd: 5.24585672721273
+cohen's D: 0.234672937153338
+ANT-R Alerting (ACC): (M = -1.23, SD = 5.25) , t(43) = -1.56, p = 0.127, Cohen's D = 0.235
+
+
+ANT-R Validity (RT)
+
+	One Sample t-test
+
+data:  values
+t = 17.268, df = 43, p-value < 0.00000000000000022
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+  87.15616 110.20521
+sample estimates:
+mean of x 
+ 98.68068 
+
+n: 44
+sd: 37.9061623694828
+cohen's D: 2.60328870743263
+ANT-R Validity (RT): (M = 98.68, SD = 37.91) , t(43) = 17.27, p = < 0.001, Cohen's D = 2.603
+
+
+ANT-R Validity (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -6.6137, df = 43, p-value = 0.00000004678
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -4.40742 -2.34763
+sample estimates:
+mean of x 
+-3.377525 
+
+n: 44
+sd: 3.38750298991289
+cohen's D: 0.997054545068345
+ANT-R Validity (ACC): (M = -3.38, SD = 3.39) , t(43) = -6.61, p = < 0.001, Cohen's D = 0.997
+
+
+ANT-R Disengaging (RT)
+
+	One Sample t-test
+
+data:  values
+t = 12.976, df = 43, p-value < 0.00000000000000022
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 42.57485 58.24447
+sample estimates:
+mean of x 
+ 50.40966 
+
+n: 44
+sd: 25.7700486610026
+cohen's D: 1.95613374609636
+ANT-R Disengaging (RT): (M = 50.41, SD = 25.77) , t(43) = 12.98, p = < 0.001, Cohen's D = 1.956
+
+
+ANT-R Disengaging (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -2.8777, df = 43, p-value = 0.006215
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -3.6238754 -0.6374882
+sample estimates:
+mean of x 
+-2.130682 
+
+n: 44
+sd: 4.91137205812237
+cohen's D: 0.433826188072664
+ANT-R Disengaging (ACC): (M = -2.13, SD = 4.91) , t(43) = -2.88, p = 0.006, Cohen's D = 0.434
+
+
+ANT-R Moving + Engaging (RT)
+
+	One Sample t-test
+
+data:  values
+t = 14.887, df = 43, p-value < 0.00000000000000022
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 41.73206 54.80999
+sample estimates:
+mean of x 
+ 48.27102 
+
+n: 44
+sd: 21.5077853913519
+cohen's D: 2.24435113778191
+ANT-R Moving + Engaging (RT): (M = 48.27, SD = 21.51) , t(43) = 14.89, p = < 0.001, Cohen's D = 2.244
+
+
+ANT-R Moving + Engaging (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -2.0849, df = 43, p-value = 0.04305
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -2.45290650 -0.04078037
+sample estimates:
+mean of x 
+-1.246843 
+
+n: 44
+sd: 3.96695009767138
+cohen's D: 0.314307819267839
+ANT-R Moving + Engaging (ACC): (M = -1.25, SD = 3.97) , t(43) = -2.08, p = 0.043, Cohen's D = 0.314
+
+
+ANT-R Orienting Time (RT)
+
+	One Sample t-test
+
+data:  values
+t = 14.467, df = 43, p-value < 0.00000000000000022
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 72.59147 96.10778
+sample estimates:
+mean of x 
+ 84.34963 
+
+n: 44
+sd: 38.6746207322974
+cohen's D: 2.1810071824233
+ANT-R Orienting Time (RT): (M = 84.35, SD = 38.67) , t(43) = 14.47, p = < 0.001, Cohen's D = 2.181
+
+
+ANT-R Orienting Time (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -4.0736, df = 43, p-value = 0.0001953
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -3.822596 -1.291040
+sample estimates:
+mean of x 
+-2.556818 
+
+n: 44
+sd: 4.16336197348317
+cohen's D: 0.614123441128296
+ANT-R Orienting Time (ACC): (M = -2.56, SD = 4.16) , t(43) = -4.07, p = < 0.001, Cohen's D = 0.614
+
+
+ANT-R Flanker Conflict (RT)
+
+	One Sample t-test
+
+data:  values
+t = 27.617, df = 43, p-value < 0.00000000000000022
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 112.6088 130.3508
+sample estimates:
+mean of x 
+ 121.4798 
+
+n: 44
+sd: 29.1782721956978
+cohen's D: 4.16336371333235
+ANT-R Flanker Conflict (RT): (M = 121.48, SD = 29.18) , t(43) = 27.62, p = < 0.001, Cohen's D = 4.163
+
+
+ANT-R Flanker Conflict (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -8.4419, df = 43, p-value = 0.0000000001132
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -9.424651 -5.789996
+sample estimates:
+mean of x 
+-7.607323 
+
+n: 44
+sd: 5.97750529775894
+cohen's D: 1.27265855124802
+ANT-R Flanker Conflict (ACC): (M = -7.61, SD = 5.98) , t(43) = -8.44, p = < 0.001, Cohen's D = 1.273
+
+
+ANT-R Location Conflict (RT)
+
+	One Sample t-test
+
+data:  values
+t = -1.6197, df = 43, p-value = 0.1126
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -7.7251702  0.8434377
+sample estimates:
+mean of x 
+-3.440866 
+
+n: 44
+sd: 14.0918168714264
+cohen's D: 0.244174778472741
+ANT-R Location Conflict (RT): (M = -3.44, SD = 14.09) , t(43) = -1.62, p = 0.113, Cohen's D = 0.244
+
+
+ANT-R Location Conflict (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -0.91052, df = 43, p-value = 0.3676
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -1.4207221  0.5368838
+sample estimates:
+ mean of x 
+-0.4419192 
+
+n: 44
+sd: 3.21945226538579
+cohen's D: 0.137265334439191
+ANT-R Location Conflict (ACC): (M = -0.44, SD = 3.22) , t(43) = -0.91, p = 0.368, Cohen's D = 0.137
+
+
+ANT-R Flanker By Location (RT)
+
+	One Sample t-test
+
+data:  values
+t = -0.88336, df = 43, p-value = 0.382
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -14.404719   5.629295
+sample estimates:
+mean of x 
+-4.387712 
+
+n: 44
+sd: 32.9476692712483
+cohen's D: 0.133172149413832
+ANT-R Flanker By Location (RT): (M = -4.39, SD = 32.95) , t(43) = -0.88, p = 0.382, Cohen's D = 0.133
+
+
+ANT-R Flanker By Location (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -1.0139, df = 43, p-value = 0.3163
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -2.4531169  0.8117028
+sample estimates:
+ mean of x 
+-0.8207071 
+
+n: 44
+sd: 5.36927841333692
+cohen's D: 0.152852396081472
+ANT-R Flanker By Location (ACC): (M = -0.82, SD = 5.37) , t(43) = -1.01, p = 0.316, Cohen's D = 0.153
+
+
+ANT-R Alerting By Flanker (RT)
+
+	One Sample t-test
+
+data:  values
+t = 1.094, df = 43, p-value = 0.28
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -6.214871 20.952804
+sample estimates:
+mean of x 
+ 7.368967 
+
+n: 44
+sd: 44.6795907127904
+cohen's D: 0.164929143883783
+ANT-R Alerting By Flanker (RT): (M = 7.37, SD = 44.68) , t(43) = 1.09, p = 0.28, Cohen's D = 0.165
+
+
+ANT-R Alerting By Flanker (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -0.87263, df = 43, p-value = 0.3877
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -4.389668  1.738153
+sample estimates:
+mean of x 
+-1.325758 
+
+n: 44
+sd: 10.0777311329192
+cohen's D: 0.131553179805219
+ANT-R Alerting By Flanker (ACC): (M = -1.33, SD = 10.08) , t(43) = -0.87, p = 0.388, Cohen's D = 0.132
+
+
+ANT-R Orienting By Flanker (RT)
+
+	One Sample t-test
+
+data:  values
+t = 5.7684, df = 43, p-value = 0.0000007934
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 19.48811 40.43925
+sample estimates:
+mean of x 
+ 29.96368 
+
+n: 44
+sd: 34.4559704047741
+cohen's D: 0.869622231953182
+ANT-R Orienting By Flanker (RT): (M = 29.96, SD = 34.46) , t(43) = 5.77, p = < 0.001, Cohen's D = 0.87
+
+
+ANT-R Orienting By Flanker (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -2.1534, df = 43, p-value = 0.03694
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -4.3400874 -0.1422358
+sample estimates:
+mean of x 
+-2.241162 
+
+n: 44
+sd: 6.90373019110031
+cohen's D: 0.324630533657113
+ANT-R Orienting By Flanker (ACC): (M = -2.24, SD = 6.9) , t(43) = -2.15, p = 0.037, Cohen's D = 0.325
+
+
+ANT-R Validity By Flanker (RT)
+
+	One Sample t-test
+
+data:  values
+t = 6.7888, df = 43, p-value = 0.00000002605
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 34.35505 63.39214
+sample estimates:
+mean of x 
+  48.8736 
+
+n: 44
+sd: 47.7540053283787
+cohen's D: 1.0234450035384
+ANT-R Validity By Flanker (RT): (M = 48.87, SD = 47.75) , t(43) = 6.79, p = < 0.001, Cohen's D = 1.023
+
+
+ANT-R Validity By Flanker (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -7.0229, df = 43, p-value = 0.00000001192
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -8.613571 -4.770268
+sample estimates:
+mean of x 
+-6.691919 
+
+n: 44
+sd: 6.32064387396939
+cohen's D: 1.0587401102408
+ANT-R Validity By Flanker (ACC): (M = -6.69, SD = 6.32) , t(43) = -7.02, p = < 0.001, Cohen's D = 1.059
+
+
+ANT-R Alerting By Location (RT)
+
+	One Sample t-test
+
+data:  values
+t = 0.93166, df = 43, p-value = 0.3567
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -7.461815 20.276068
+sample estimates:
+mean of x 
+ 6.407127 
+
+n: 44
+sd: 45.6173466491866
+cohen's D: 0.140453730412544
+ANT-R Alerting By Location (RT): (M = 6.41, SD = 45.62) , t(43) = 0.93, p = 0.357, Cohen's D = 0.14
+
+
+ANT-R Alerting By Location (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -1.5885, df = 43, p-value = 0.1195
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -4.2983369  0.5104581
+sample estimates:
+mean of x 
+-1.893939 
+
+n: 44
+sd: 7.9084793166692
+cohen's D: 0.239482120152659
+ANT-R Alerting By Location (ACC): (M = -1.89, SD = 7.91) , t(43) = -1.59, p = 0.119, Cohen's D = 0.239
+
+
+ANT-R Orienting By Location (RT)
+
+	One Sample t-test
+
+data:  values
+t = -0.15771, df = 43, p-value = 0.8754
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -12.53446  10.71624
+sample estimates:
+ mean of x 
+-0.9091078 
+
+n: 44
+sd: 38.2377938226299
+cohen's D: 0.023775110510867
+ANT-R Orienting By Location (RT): (M = -0.91, SD = 38.24) , t(43) = -0.16, p = 0.875, Cohen's D = 0.024
+
+
+ANT-R Orienting By Location (ACC)
+
+	One Sample t-test
+
+data:  values
+t = 1.2956, df = 43, p-value = 0.202
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -0.6148508  2.8244468
+sample estimates:
+mean of x 
+ 1.104798 
+
+n: 44
+sd: 5.65622252694725
+cohen's D: 0.195324348455975
+ANT-R Orienting By Location (ACC): (M = 1.1, SD = 5.66) , t(43) = 1.3, p = 0.202, Cohen's D = 0.195
+
+
+ANT-R Validity By Location (RT)
+
+	One Sample t-test
+
+data:  values
+t = -3.6905, df = 43, p-value = 0.0006256
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -28.408512  -8.331587
+sample estimates:
+mean of x 
+-18.37005 
+
+n: 44
+sd: 33.0182399686377
+cohen's D: 0.556360649455508
+ANT-R Validity By Location (RT): (M = -18.37, SD = 33.02) , t(43) = -3.69, p = < 0.001, Cohen's D = 0.556
+
+
+ANT-R Validity By Location (ACC)
+
+	One Sample t-test
+
+data:  values
+t = 3.7124, df = 43, p-value = 0.0005861
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 1.672491 5.650741
+sample estimates:
+mean of x 
+ 3.661616 
+
+n: 44
+sd: 6.54257702462444
+cohen's D: 0.55965961850122
+ANT-R Validity By Location (ACC): (M = 3.66, SD = 6.54) , t(43) = 3.71, p = < 0.001, Cohen's D = 0.56
+
+
+ANT-R Inhibition of Return (RT)
+
+	One Sample t-test
+
+data:  values
+t = -11.481, df = 43, p-value = 0.00000000000001108
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -97.02930 -68.03571
+sample estimates:
+mean of x 
+ -82.5325 
+
+n: 44
+sd: 47.6824629580296
+cohen's D: 1.73087749815795
+ANT-R Inhibition of Return (RT): (M = -82.53, SD = 47.68) , t(43) = -11.48, p = < 0.001, Cohen's D = 1.731
+
+
+ANT-R Inhibition of Return (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -0.58897, df = 43, p-value = 0.559
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -4.189487  2.295547
+sample estimates:
+ mean of x 
+-0.9469697 
+
+n: 44
+sd: 10.6651993132724
+cohen's D: 0.0887906235180467
+ANT-R Inhibition of Return (ACC): (M = -0.95, SD = 10.67) , t(43) = -0.59, p = 0.559, Cohen's D = 0.089
+
+
+ANT-R Mean RT
+
+	One Sample t-test
+
+data:  values
+t = 58.736, df = 43, p-value < 0.00000000000000022
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 577.5895 618.6624
+sample estimates:
+mean of x 
+  598.126 
+
+n: 44
+sd: 67.5479673144626
+cohen's D: 8.85483302107273
+ANT-R Mean RT: (M = 598.13, SD = 67.55) , t(43) = 58.74, p = < 0.001, Cohen's D = 8.855
+
+
+ANT-R Mean ACC
+
+	One Sample t-test
+
+data:  values
+t = 182.98, df = 43, p-value < 0.00000000000000022
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 94.18400 96.28317
+sample estimates:
+mean of x 
+ 95.23359 
+
+n: 44
+sd: 3.45227119949919
+cohen's D: 27.5857776968395
+ANT-R Mean ACC: (M = 95.23, SD = 3.45) , t(43) = 182.98, p = < 0.001, Cohen's D = 27.586
+
+
+ANT-VR Alerting (RT)
+
+	One Sample t-test
+
+data:  values
+t = 9.3935, df = 43, p-value = 0.000000000005566
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 25.28300 39.10684
+sample estimates:
+mean of x 
+ 32.19492 
+
+n: 44
+sd: 22.7345029604685
+cohen's D: 1.41612583430736
+ANT-VR Alerting (RT): (M = 32.19, SD = 22.73) , t(43) = 9.39, p = < 0.001, Cohen's D = 1.416
+
+
+ANT-VR Alerting (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -1.7528, df = 43, p-value = 0.08676
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -2.5455990  0.1781748
+sample estimates:
+mean of x 
+-1.183712 
+
+n: 44
+sd: 4.47948162928887
+cohen's D: 0.264252031635196
+ANT-VR Alerting (ACC): (M = -1.18, SD = 4.48) , t(43) = -1.75, p = 0.087, Cohen's D = 0.264
+
+
+ANT-VR Validity (RT)
+
+	One Sample t-test
+
+data:  values
+t = 13.071, df = 43, p-value < 0.00000000000000022
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 60.23510 82.21404
+sample estimates:
+mean of x 
+ 71.22457 
+
+n: 44
+sd: 36.1462586870667
+cohen's D: 1.9704548050412
+ANT-VR Validity (RT): (M = 71.22, SD = 36.15) , t(43) = 13.07, p = < 0.001, Cohen's D = 1.97
+
+
+ANT-VR Validity (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -2.451, df = 43, p-value = 0.01839
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -2.9632202 -0.2880424
+sample estimates:
+mean of x 
+-1.625631 
+
+n: 44
+sd: 4.39956135676496
+cohen's D: 0.369498497988139
+ANT-VR Validity (ACC): (M = -1.63, SD = 4.4) , t(43) = -2.45, p = 0.018, Cohen's D = 0.369
+
+
+ANT-VR Disengaging (RT)
+
+	One Sample t-test
+
+data:  values
+t = 7.2943, df = 43, p-value = 0.000000004835
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 20.05773 35.38670
+sample estimates:
+mean of x 
+ 27.72222 
+
+n: 44
+sd: 25.209818404505
+cohen's D: 1.09965955215361
+ANT-VR Disengaging (RT): (M = 27.72, SD = 25.21) , t(43) = 7.29, p = < 0.001, Cohen's D = 1.1
+
+
+ANT-VR Disengaging (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -2.1883, df = 43, p-value = 0.03413
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -3.0024874 -0.1225126
+sample estimates:
+mean of x 
+  -1.5625 
+
+n: 44
+sd: 4.73636779711634
+cohen's D: 0.329894143979127
+ANT-VR Disengaging (ACC): (M = -1.56, SD = 4.74) , t(43) = -2.19, p = 0.034, Cohen's D = 0.33
+
+
+ANT-VR Moving + Engaging (RT)
+
+	One Sample t-test
+
+data:  values
+t = 11.805, df = 43, p-value = 0.000000000000004448
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 36.07049 50.93421
+sample estimates:
+mean of x 
+ 43.50235 
+
+n: 44
+sd: 24.4446846457522
+cohen's D: 1.77962416484602
+ANT-VR Moving + Engaging (RT): (M = 43.5, SD = 24.44) , t(43) = 11.8, p = < 0.001, Cohen's D = 1.78
+
+
+ANT-VR Moving + Engaging (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -0.11957, df = 43, p-value = 0.9054
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -1.127895  1.001632
+sample estimates:
+  mean of x 
+-0.06313131 
+
+n: 44
+sd: 3.50219038365431
+cohen's D: 0.0180262367876872
+ANT-VR Moving + Engaging (ACC): (M = -0.06, SD = 3.5) , t(43) = -0.12, p = 0.905, Cohen's D = 0.018
+
+
+ANT-VR Orienting Time (RT)
+
+	One Sample t-test
+
+data:  values
+t = 6.9503, df = 43, p-value = 0.00000001519
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 28.17337 51.20589
+sample estimates:
+mean of x 
+ 39.68963 
+
+n: 44
+sd: 37.8789832440344
+cohen's D: 1.04780080737458
+ANT-VR Orienting Time (RT): (M = 39.69, SD = 37.88) , t(43) = 6.95, p = < 0.001, Cohen's D = 1.048
+
+
+ANT-VR Orienting Time (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -3.5552, df = 43, p-value = 0.0009332
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -3.4877177 -0.9630399
+sample estimates:
+mean of x 
+-2.225379 
+
+n: 44
+sd: 4.15205109276796
+cohen's D: 0.535970954633711
+ANT-VR Orienting Time (ACC): (M = -2.23, SD = 4.15) , t(43) = -3.56, p = < 0.001, Cohen's D = 0.536
+
+
+ANT-VR Flanker Conflict (RT)
+
+	One Sample t-test
+
+data:  values
+t = 19.425, df = 43, p-value < 0.00000000000000022
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 52.71296 64.92645
+sample estimates:
+mean of x 
+ 58.81971 
+
+n: 44
+sd: 20.0861453039543
+cohen's D: 2.92837214927091
+ANT-VR Flanker Conflict (RT): (M = 58.82, SD = 20.09) , t(43) = 19.42, p = < 0.001, Cohen's D = 2.928
+
+
+ANT-VR Flanker Conflict (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -7.2094, df = 43, p-value = 0.000000006409
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -4.726275 -2.660089
+sample estimates:
+mean of x 
+-3.693182 
+
+n: 44
+sd: 3.39802087768876
+cohen's D: 1.08686260359113
+ANT-VR Flanker Conflict (ACC): (M = -3.69, SD = 3.4) , t(43) = -7.21, p = < 0.001, Cohen's D = 1.087
+
+
+ANT-VR Location Conflict (RT)
+
+	One Sample t-test
+
+data:  values
+t = 0.91045, df = 43, p-value = 0.3677
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -4.252241 11.251491
+sample estimates:
+mean of x 
+ 3.499625 
+
+n: 44
+sd: 25.4972294582807
+cohen's D: 0.137255101941175
+ANT-VR Location Conflict (RT): (M = 3.5, SD = 25.5) , t(43) = 0.91, p = 0.368, Cohen's D = 0.137
+
+
+ANT-VR Location Conflict (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -1.0404, df = 43, p-value = 0.304
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -1.5767999  0.5035676
+sample estimates:
+ mean of x 
+-0.5366162 
+
+n: 44
+sd: 3.42134442041394
+cohen's D: 0.156843654329089
+ANT-VR Location Conflict (ACC): (M = -0.54, SD = 3.42) , t(43) = -1.04, p = 0.304, Cohen's D = 0.157
+
+
+ANT-VR Flanker By Location (RT)
+
+	One Sample t-test
+
+data:  values
+t = -0.94295, df = 43, p-value = 0.351
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -13.273827   4.815657
+sample estimates:
+mean of x 
+-4.229085 
+
+n: 44
+sd: 29.7497204945695
+cohen's D: 0.14215545188125
+ANT-VR Flanker By Location (RT): (M = -4.23, SD = 29.75) , t(43) = -0.94, p = 0.351, Cohen's D = 0.142
+
+
+ANT-VR Flanker By Location (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -0.82316, df = 43, p-value = 0.415
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -2.1779923  0.9153661
+sample estimates:
+ mean of x 
+-0.6313131 
+
+n: 44
+sd: 5.08729552745627
+cohen's D: 0.124096020745388
+ANT-VR Flanker By Location (ACC): (M = -0.63, SD = 5.09) , t(43) = -0.82, p = 0.415, Cohen's D = 0.124
+
+
+ANT-VR Alerting By Flanker (RT)
+
+	One Sample t-test
+
+data:  values
+t = 0.39883, df = 43, p-value = 0.692
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -9.644487 14.399533
+sample estimates:
+mean of x 
+ 2.377523 
+
+n: 44
+sd: 39.5424713650737
+cohen's D: 0.0601257995219174
+ANT-VR Alerting By Flanker (RT): (M = 2.38, SD = 39.54) , t(43) = 0.4, p = 0.692, Cohen's D = 0.06
+
+
+ANT-VR Alerting By Flanker (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -1.0285, df = 43, p-value = 0.3095
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -4.205811  1.364902
+sample estimates:
+mean of x 
+-1.420455 
+
+n: 44
+sd: 9.16151995307542
+cohen's D: 0.155045729609279
+ANT-VR Alerting By Flanker (ACC): (M = -1.42, SD = 9.16) , t(43) = -1.03, p = 0.309, Cohen's D = 0.155
+
+
+ANT-VR Orienting By Flanker (RT)
+
+	One Sample t-test
+
+data:  values
+t = 1.4136, df = 43, p-value = 0.1647
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -3.178954 18.082669
+sample estimates:
+mean of x 
+ 7.451858 
+
+n: 44
+sd: 34.9665778717422
+cohen's D: 0.213113727397875
+ANT-VR Orienting By Flanker (RT): (M = 7.45, SD = 34.97) , t(43) = 1.41, p = 0.165, Cohen's D = 0.213
+
+
+ANT-VR Orienting By Flanker (ACC)
+
+	One Sample t-test
+
+data:  values
+t = 1.2706, df = 43, p-value = 0.2107
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -0.6301454  2.7766100
+sample estimates:
+mean of x 
+ 1.073232 
+
+n: 44
+sd: 5.60270397281157
+cohen's D: 0.191556135830205
+ANT-VR Orienting By Flanker (ACC): (M = 1.07, SD = 5.6) , t(43) = 1.27, p = 0.211, Cohen's D = 0.192
+
+
+ANT-VR Validity By Flanker (RT)
+
+	One Sample t-test
+
+data:  values
+t = 3.4565, df = 43, p-value = 0.001244
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+  8.955648 34.042675
+sample estimates:
+mean of x 
+ 21.49916 
+
+n: 44
+sd: 41.2577863844427
+cohen's D: 0.521093423748405
+ANT-VR Validity By Flanker (RT): (M = 21.5, SD = 41.26) , t(43) = 3.46, p = 0.001, Cohen's D = 0.521
+
+
+ANT-VR Validity By Flanker (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -0.90828, df = 43, p-value = 0.3688
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -3.557835  1.348239
+sample estimates:
+mean of x 
+-1.104798 
+
+n: 44
+sd: 8.0684625807191
+cohen's D: 0.136927942435784
+ANT-VR Validity By Flanker (ACC): (M = -1.1, SD = 8.07) , t(43) = -0.91, p = 0.369, Cohen's D = 0.137
+
+
+ANT-VR Alerting By Location (RT)
+
+	One Sample t-test
+
+data:  values
+t = -1.3476, df = 43, p-value = 0.1848
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -28.463757   5.660779
+sample estimates:
+mean of x 
+-11.40149 
+
+n: 44
+sd: 56.1207512718511
+cohen's D: 0.203159943717769
+ANT-VR Alerting By Location (RT): (M = -11.4, SD = 56.12) , t(43) = -1.35, p = 0.185, Cohen's D = 0.203
+
+
+ANT-VR Alerting By Location (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -0.93852, df = 43, p-value = 0.3532
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -3.280001  1.196668
+sample estimates:
+mean of x 
+-1.041667 
+
+n: 44
+sd: 7.36226893531939
+cohen's D: 0.141487179539099
+ANT-VR Alerting By Location (ACC): (M = -1.04, SD = 7.36) , t(43) = -0.94, p = 0.353, Cohen's D = 0.141
+
+
+ANT-VR Orienting By Location (RT)
+
+	One Sample t-test
+
+data:  values
+t = -0.15761, df = 43, p-value = 0.8755
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -14.45460  12.35899
+sample estimates:
+mean of x 
+-1.047803 
+
+n: 44
+sd: 44.0972760841049
+cohen's D: 0.0237611617630385
+ANT-VR Orienting By Location (RT): (M = -1.05, SD = 44.1) , t(43) = -0.16, p = 0.875, Cohen's D = 0.024
+
+
+ANT-VR Orienting By Location (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -0.7368, df = 43, p-value = 0.4652
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -2.831137  1.315986
+sample estimates:
+ mean of x 
+-0.7575758 
+
+n: 44
+sd: 6.8203021785856
+cohen's D: 0.111076567832198
+ANT-VR Orienting By Location (ACC): (M = -0.76, SD = 6.82) , t(43) = -0.74, p = 0.465, Cohen's D = 0.111
+
+
+ANT-VR Validity By Location (RT)
+
+	One Sample t-test
+
+data:  values
+t = -0.98753, df = 43, p-value = 0.3289
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -18.91311   6.47909
+sample estimates:
+mean of x 
+-6.217008 
+
+n: 44
+sd: 41.7596631349397
+cohen's D: 0.148875906851185
+ANT-VR Validity By Location (RT): (M = -6.22, SD = 41.76) , t(43) = -0.99, p = 0.329, Cohen's D = 0.149
+
+
+ANT-VR Validity By Location (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -0.087272, df = 43, p-value = 0.9309
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -2.282958  2.093564
+sample estimates:
+  mean of x 
+-0.09469697 
+
+n: 44
+sd: 7.19756853090178
+cohen's D: 0.0131568000068917
+ANT-VR Validity By Location (ACC): (M = -0.09, SD = 7.2) , t(43) = -0.09, p = 0.931, Cohen's D = 0.013
+
+
+ANT-VR Inhibition of Return (RT)
+
+	One Sample t-test
+
+data:  values
+t = -3.2402, df = 43, p-value = 0.002308
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -37.586899  -8.748036
+sample estimates:
+mean of x 
+-23.16747 
+
+n: 44
+sd: 47.4280053672541
+cohen's D: 0.48847653869394
+ANT-VR Inhibition of Return (RT): (M = -23.17, SD = 47.43) , t(43) = -3.24, p = 0.002, Cohen's D = 0.488
+
+
+ANT-VR Inhibition of Return (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -0.14328, df = 43, p-value = 0.8867
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -2.855096  2.476308
+sample estimates:
+ mean of x 
+-0.1893939 
+
+n: 44
+sd: 8.76795617222748
+cohen's D: 0.0216006941268529
+ANT-VR Inhibition of Return (ACC): (M = -0.19, SD = 8.77) , t(43) = -0.14, p = 0.887, Cohen's D = 0.022
+
+
+ANT-VR Mean RT
+
+	One Sample t-test
+
+data:  values
+t = 64.042, df = 43, p-value < 0.00000000000000022
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 634.9625 676.2526
+sample estimates:
+mean of x 
+ 655.6075 
+
+n: 44
+sd: 67.9051560151018
+cohen's D: 9.65475357814829
+ANT-VR Mean RT: (M = 655.61, SD = 67.91) , t(43) = 64.04, p = < 0.001, Cohen's D = 9.655
+
+
+ANT-VR Mean ACC
+
+	One Sample t-test
+
+data:  values
+t = 177.19, df = 43, p-value < 0.00000000000000022
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 94.18090 96.34941
+sample estimates:
+mean of x 
+ 95.26515 
+
+n: 44
+sd: 3.56630523610771
+cohen's D: 26.7125625004338
+ANT-VR Mean ACC: (M = 95.27, SD = 3.57) , t(43) = 177.19, p = < 0.001, Cohen's D = 26.713
+
+
+ANT-VR B Alerting (RT)
+
+	One Sample t-test
+
+data:  values
+t = 5.5416, df = 43, p-value = 0.00000169
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 22.53998 48.33112
+sample estimates:
+mean of x 
+ 35.43555 
+
+n: 44
+sd: 42.4157602936337
+cohen's D: 0.835433627307891
+ANT-VR B Alerting (RT): (M = 35.44, SD = 42.42) , t(43) = 5.54, p = < 0.001, Cohen's D = 0.835
+
+
+ANT-VR B Alerting (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -1.1568, df = 43, p-value = 0.2538
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -2.3381350  0.6335895
+sample estimates:
+ mean of x 
+-0.8522727 
+
+n: 44
+sd: 4.88725811393367
+cohen's D: 0.174386682144509
+ANT-VR B Alerting (ACC): (M = -0.85, SD = 4.89) , t(43) = -1.16, p = 0.254, Cohen's D = 0.174
+
+
+ANT-VR B Validity (RT)
+
+	One Sample t-test
+
+data:  values
+t = 10.735, df = 43, p-value = 0.00000000000009603
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 43.96667 64.30736
+sample estimates:
+mean of x 
+ 54.13702 
+
+n: 44
+sd: 33.452035689665
+cohen's D: 1.61834742977507
+ANT-VR B Validity (RT): (M = 54.14, SD = 33.45) , t(43) = 10.73, p = < 0.001, Cohen's D = 1.618
+
+
+ANT-VR B Validity (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -2.3531, df = 43, p-value = 0.02326
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -2.8136746 -0.2166285
+sample estimates:
+mean of x 
+-1.515152 
+
+n: 44
+sd: 4.27106698083791
+cohen's D: 0.354747776597563
+ANT-VR B Validity (ACC): (M = -1.52, SD = 4.27) , t(43) = -2.35, p = 0.023, Cohen's D = 0.355
+
+
+ANT-VR B Disengaging (RT)
+
+	One Sample t-test
+
+data:  values
+t = 4.7355, df = 43, p-value = 0.00002395
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 11.22697 27.88233
+sample estimates:
+mean of x 
+ 19.55465 
+
+n: 44
+sd: 27.3911847906745
+cohen's D: 0.713903133868043
+ANT-VR B Disengaging (RT): (M = 19.55, SD = 27.39) , t(43) = 4.74, p = < 0.001, Cohen's D = 0.714
+
+
+ANT-VR B Disengaging (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -2.918, df = 43, p-value = 0.005582
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -3.2028716 -0.5850072
+sample estimates:
+mean of x 
+-1.893939 
+
+n: 44
+sd: 4.30530453851619
+cohen's D: 0.439908344925615
+ANT-VR B Disengaging (ACC): (M = -1.89, SD = 4.31) , t(43) = -2.92, p = 0.006, Cohen's D = 0.44
+
+
+ANT-VR B Moving + Engaging (RT)
+
+	One Sample t-test
+
+data:  values
+t = 6.2523, df = 43, p-value = 0.000000157
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 23.42781 45.73692
+sample estimates:
+mean of x 
+ 34.58236 
+
+n: 44
+sd: 36.6892534310229
+cohen's D: 0.942574734634713
+ANT-VR B Moving + Engaging (RT): (M = 34.58, SD = 36.69) , t(43) = 6.25, p = < 0.001, Cohen's D = 0.943
+
+
+ANT-VR B Moving + Engaging (ACC)
+
+	One Sample t-test
+
+data:  values
+t = 0.54504, df = 43, p-value = 0.5885
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -1.022769  1.780345
+sample estimates:
+mean of x 
+0.3787879 
+
+n: 44
+sd: 4.60996331916941
+cohen's D: 0.0821672218546254
+ANT-VR B Moving + Engaging (ACC): (M = 0.38, SD = 4.61) , t(43) = 0.55, p = 0.589, Cohen's D = 0.082
+
+
+ANT-VR B Orienting Time (RT)
+
+	One Sample t-test
+
+data:  values
+t = 6.5425, df = 43, p-value = 0.00000005938
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 31.56365 59.69326
+sample estimates:
+mean of x 
+ 45.62846 
+
+n: 44
+sd: 46.261583779567
+cohen's D: 0.986314174670169
+ANT-VR B Orienting Time (RT): (M = 45.63, SD = 46.26) , t(43) = 6.54, p = < 0.001, Cohen's D = 0.986
+
+
+ANT-VR B Orienting Time (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -1.0699, df = 43, p-value = 0.2907
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -3.688224  1.131406
+sample estimates:
+mean of x 
+-1.278409 
+
+n: 44
+sd: 7.92629857108947
+cohen's D: 0.161287021860618
+ANT-VR B Orienting Time (ACC): (M = -1.28, SD = 7.93) , t(43) = -1.07, p = 0.291, Cohen's D = 0.161
+
+
+ANT-VR B Flanker Conflict (RT)
+
+	One Sample t-test
+
+data:  values
+t = 11.674, df = 43, p-value = 0.000000000000006425
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 50.33014 71.35082
+sample estimates:
+mean of x 
+ 60.84048 
+
+n: 44
+sd: 34.5703234130593
+cohen's D: 1.75990484258541
+ANT-VR B Flanker Conflict (RT): (M = 60.84, SD = 34.57) , t(43) = 11.67, p = < 0.001, Cohen's D = 1.76
+
+
+ANT-VR B Flanker Conflict (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -4.3729, df = 43, p-value = 0.00007651
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -5.580893 -2.057996
+sample estimates:
+mean of x 
+-3.819444 
+
+n: 44
+sd: 5.7937084714737
+cohen's D: 0.659240012377241
+ANT-VR B Flanker Conflict (ACC): (M = -3.82, SD = 5.79) , t(43) = -4.37, p = < 0.001, Cohen's D = 0.659
+
+
+ANT-VR B Location Conflict (RT)
+
+	One Sample t-test
+
+data:  values
+t = 0.58323, df = 43, p-value = 0.5628
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -5.639841 10.229146
+sample estimates:
+mean of x 
+ 2.294652 
+
+n: 44
+sd: 26.0979235164084
+cohen's D: 0.0879247144058595
+ANT-VR B Location Conflict (RT): (M = 2.29, SD = 26.1) , t(43) = 0.58, p = 0.563, Cohen's D = 0.088
+
+
+ANT-VR B Location Conflict (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -0.88269, df = 43, p-value = 0.3823
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -1.9699905  0.7704955
+sample estimates:
+ mean of x 
+-0.5997475 
+
+n: 44
+sd: 4.50696624072248
+cohen's D: 0.133071215250845
+ANT-VR B Location Conflict (ACC): (M = -0.6, SD = 4.51) , t(43) = -0.88, p = 0.382, Cohen's D = 0.133
+
+
+ANT-VR B Flanker By Location (RT)
+
+	One Sample t-test
+
+data:  values
+t = 0.0063148, df = 43, p-value = 0.995
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -14.75335  14.84603
+sample estimates:
+ mean of x 
+0.04634175 
+
+n: 44
+sd: 48.6787505891035
+cohen's D: 0.000951991356048227
+ANT-VR B Flanker By Location (RT): (M = 0.05, SD = 48.68) , t(43) = 0.01, p = 0.995, Cohen's D = 0.001
+
+
+ANT-VR B Flanker By Location (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -1.3929, df = 43, p-value = 0.1708
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -3.8633069  0.7067412
+sample estimates:
+mean of x 
+-1.578283 
+
+n: 44
+sd: 7.51583951077969
+cohen's D: 0.20999421635057
+ANT-VR B Flanker By Location (ACC): (M = -1.58, SD = 7.52) , t(43) = -1.39, p = 0.171, Cohen's D = 0.21
+
+
+ANT-VR B Alerting By Flanker (RT)
+
+	One Sample t-test
+
+data:  values
+t = 0.66125, df = 43, p-value = 0.512
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -16.95086  33.48970
+sample estimates:
+mean of x 
+ 8.269421 
+
+n: 44
+sd: 82.9538723633287
+cohen's D: 0.0996869856947021
+ANT-VR B Alerting By Flanker (RT): (M = 8.27, SD = 82.95) , t(43) = 0.66, p = 0.512, Cohen's D = 0.1
+
+
+ANT-VR B Alerting By Flanker (ACC)
+
+	One Sample t-test
+
+data:  values
+t = 0.70669, df = 43, p-value = 0.4836
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -2.457590  5.109105
+sample estimates:
+mean of x 
+ 1.325758 
+
+n: 44
+sd: 12.4440844753971
+cohen's D: 0.106537172612312
+ANT-VR B Alerting By Flanker (ACC): (M = 1.33, SD = 12.44) , t(43) = 0.71, p = 0.484, Cohen's D = 0.107
+
+
+ANT-VR B Orienting By Flanker (RT)
+
+	One Sample t-test
+
+data:  values
+t = 0.87374, df = 43, p-value = 0.3871
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -10.16030  25.69467
+sample estimates:
+mean of x 
+ 7.767183 
+
+n: 44
+sd: 58.9665965682047
+cohen's D: 0.131721745350724
+ANT-VR B Orienting By Flanker (RT): (M = 7.77, SD = 58.97) , t(43) = 0.87, p = 0.387, Cohen's D = 0.132
+
+
+ANT-VR B Orienting By Flanker (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -1.8916, df = 43, p-value = 0.0653
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -5.0871038  0.1628614
+sample estimates:
+mean of x 
+-2.462121 
+
+n: 44
+sd: 8.63402197399904
+cohen's D: 0.285165038904902
+ANT-VR B Orienting By Flanker (ACC): (M = -2.46, SD = 8.63) , t(43) = -1.89, p = 0.065, Cohen's D = 0.285
+
+
+ANT-VR B Validity By Flanker (RT)
+
+	One Sample t-test
+
+data:  values
+t = 1.2658, df = 43, p-value = 0.2124
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -8.993541 39.316953
+sample estimates:
+mean of x 
+ 15.16171 
+
+n: 44
+sd: 79.450786874851
+cohen's D: 0.190831414629706
+ANT-VR B Validity By Flanker (RT): (M = 15.16, SD = 79.45) , t(43) = 1.27, p = 0.212, Cohen's D = 0.191
+
+
+ANT-VR B Validity By Flanker (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -2.0995, df = 43, p-value = 0.04168
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -5.5698161 -0.1120021
+sample estimates:
+mean of x 
+-2.840909 
+
+n: 44
+sd: 8.97584718820821
+cohen's D: 0.316505955520417
+ANT-VR B Validity By Flanker (ACC): (M = -2.84, SD = 8.98) , t(43) = -2.1, p = 0.042, Cohen's D = 0.317
+
+
+ANT-VR B Alerting By Location (RT)
+
+	One Sample t-test
+
+data:  values
+t = 1.4619, df = 43, p-value = 0.151
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -7.268422 45.575854
+sample estimates:
+mean of x 
+ 19.15372 
+
+n: 44
+sd: 86.9069831956855
+cohen's D: 0.220393287448351
+ANT-VR B Alerting By Location (RT): (M = 19.15, SD = 86.91) , t(43) = 1.46, p = 0.151, Cohen's D = 0.22
+
+
+ANT-VR B Alerting By Location (ACC)
+
+	One Sample t-test
+
+data:  values
+t = -0.10724, df = 43, p-value = 0.9151
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -3.751027  3.372239
+sample estimates:
+ mean of x 
+-0.1893939 
+
+n: 44
+sd: 11.7148281061638
+cohen's D: 0.0161670267525554
+ANT-VR B Alerting By Location (ACC): (M = -0.19, SD = 11.71) , t(43) = -0.11, p = 0.915, Cohen's D = 0.016
+
+
+ANT-VR B Orienting By Location (RT)
+
+	One Sample t-test
+
+data:  values
+t = -2.0667, df = 43, p-value = 0.04481
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -35.383044  -0.433709
+sample estimates:
+mean of x 
+-17.90838 
+
+n: 44
+sd: 57.4772057348653
+cohen's D: 0.311573545073082
+ANT-VR B Orienting By Location (RT): (M = -17.91, SD = 57.48) , t(43) = -2.07, p = 0.045, Cohen's D = 0.312
+
+
+ANT-VR B Orienting By Location (ACC)
+
+	One Sample t-test
+
+data:  values
+t = 0.46433, df = 43, p-value = 0.6448
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -1.899583  3.035946
+sample estimates:
+mean of x 
+0.5681818 
+
+n: 44
+sd: 8.11690409071421
+cohen's D: 0.0699998191221485
+ANT-VR B Orienting By Location (ACC): (M = 0.57, SD = 8.12) , t(43) = 0.46, p = 0.645, Cohen's D = 0.07
+
+
+ANT-VR B Validity By Location (RT)
+
+	One Sample t-test
+
+data:  values
+t = -1.1068, df = 43, p-value = 0.2745
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -23.426902   6.824181
+sample estimates:
+mean of x 
+ -8.30136 
+
+n: 44
+sd: 49.7505227391364
+cohen's D: 0.166859758715203
+ANT-VR B Validity By Location (RT): (M = -8.3, SD = 49.75) , t(43) = -1.11, p = 0.275, Cohen's D = 0.167
+
+
+ANT-VR B Validity By Location (ACC)
+
+	One Sample t-test
+
+data:  values
+t = 0.0000000000000016201, df = 43, p-value = 1
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -2.562856  2.562856
+sample estimates:
+             mean of x 
+0.00000000000000205888 
+
+n: 44
+sd: 8.42967564764789
+cohen's D: 0.000000000000000244241925649617
+ANT-VR B Validity By Location (ACC): (M = 0, SD = 8.43) , t(43) = 0, p = 1, Cohen's D = 0
+
+
+ANT-VR B Inhibition of Return (RT)
+
+	One Sample t-test
+
+data:  values
+t = -2.4672, df = 43, p-value = 0.01767
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -48.272899  -4.850512
+sample estimates:
+mean of x 
+-26.56171 
+
+n: 44
+sd: 71.4118727195157
+cohen's D: 0.371950832792826
+ANT-VR B Inhibition of Return (RT): (M = -26.56, SD = 71.41) , t(43) = -2.47, p = 0.018, Cohen's D = 0.372
+
+
+ANT-VR B Inhibition of Return (ACC)
+
+	One Sample t-test
+
+data:  values
+t = 1.0523, df = 43, p-value = 0.2986
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ -1.692437  5.385618
+sample estimates:
+mean of x 
+ 1.846591 
+
+n: 44
+sd: 11.6404736863543
+cohen's D: 0.158635375058285
+ANT-VR B Inhibition of Return (ACC): (M = 1.85, SD = 11.64) , t(43) = 1.05, p = 0.299, Cohen's D = 0.159
+
+
+ANT-VR B Mean RT
+
+	One Sample t-test
+
+data:  values
+t = 54.134, df = 43, p-value < 0.00000000000000022
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 632.360 681.299
+sample estimates:
+mean of x 
+ 656.8295 
+
+n: 44
+sd: 80.4843849937974
+cohen's D: 8.16095603947649
+ANT-VR B Mean RT: (M = 656.83, SD = 80.48) , t(43) = 54.13, p = < 0.001, Cohen's D = 8.161
+
+
+ANT-VR B Mean ACC
+
+	One Sample t-test
+
+data:  values
+t = 160.21, df = 43, p-value < 0.00000000000000022
+alternative hypothesis: true mean is not equal to 0
+95 percent confidence interval:
+ 93.64520 96.03283
+sample estimates:
+mean of x 
+ 94.83902 
+
+n: 44
+sd: 3.92665118919889
+cohen's D: 24.1526457487211
+ANT-VR B Mean ACC: (M = 94.84, SD = 3.93) , t(43) = 160.21, p = < 0.001, Cohen's D = 24.153
+
+
+----------------------------------------------------------------------------

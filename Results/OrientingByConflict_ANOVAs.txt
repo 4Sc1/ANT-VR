@@ -1,0 +1,1179 @@
+----------------------------------------------------------------------------
+Within-subject ANOVAs: Orienting by Conflict
+
+ANT-R (RT)
+ANOVA Table (type III tests)
+
+$ANOVA
+                                                          Effect DFn DFd       F                               p p<.05      pes
+1                                                   CueCondition   1  43 204.808 0.00000000000000000586000000000     * 0.826000
+2                                                    CueToTarget   2  86 138.437 0.00000000000000000000000000130     * 0.763000
+3                                              FlankerCongruency   1  43 655.631 0.00000000000000000000000000116     * 0.938000
+4                                             LocationCongruency   1  43   0.030 0.86299999999999998934185896360       0.000699
+5                                       CueCondition:CueToTarget   2  86  45.426 0.00000000000003440000000000000     * 0.514000
+6                                 CueCondition:FlankerCongruency   1  43  31.079 0.00000150999999999999994231177     * 0.420000
+7                                  CueToTarget:FlankerCongruency   2  86   8.796 0.00033500000000000001131039706     * 0.170000
+8                                CueCondition:LocationCongruency   1  43   0.020 0.88700000000000001065814103640       0.000475
+9                                 CueToTarget:LocationCongruency   2  86  10.030 0.00012199999999999999744388496     * 0.189000
+10                          FlankerCongruency:LocationCongruency   1  43   5.079 0.02900000000000000147104550763     * 0.106000
+11                    CueCondition:CueToTarget:FlankerCongruency   2  86   4.056 0.02100000000000000130451205393     * 0.086000
+12                   CueCondition:CueToTarget:LocationCongruency   2  86   0.025 0.97499999999999997779553950750       0.000584
+13             CueCondition:FlankerCongruency:LocationCongruency   1  43   9.535 0.00400000000000000008326672685     * 0.182000
+14              CueToTarget:FlankerCongruency:LocationCongruency   2  86   0.470 0.62700000000000000177635683940       0.011000
+15 CueCondition:CueToTarget:FlankerCongruency:LocationCongruency   2  86   1.087 0.34200000000000002620126338115       0.025000
+
+$`Mauchly's Test for Sphericity`
+                                                         Effect     W     p p<.05
+1                                                   CueToTarget 0.930 0.219      
+2                                      CueCondition:CueToTarget 0.987 0.753      
+3                                 CueToTarget:FlankerCongruency 0.986 0.746      
+4                                CueToTarget:LocationCongruency 0.999 0.976      
+5                    CueCondition:CueToTarget:FlankerCongruency 0.917 0.162      
+6                   CueCondition:CueToTarget:LocationCongruency 0.963 0.456      
+7              CueToTarget:FlankerCongruency:LocationCongruency 0.992 0.837      
+8 CueCondition:CueToTarget:FlankerCongruency:LocationCongruency 0.940 0.271      
+
+$`Sphericity Corrections`
+                                                         Effect   GGe      DF[GG]                          p[GG] p[GG]<.05   HFe
+1                                                   CueToTarget 0.935 1.87, 80.39 0.0000000000000000000000000566         * 0.976
+2                                      CueCondition:CueToTarget 0.987 1.97, 84.86 0.0000000000000494000000000000         * 1.034
+3                                 CueToTarget:FlankerCongruency 0.986 1.97, 84.83 0.0003600000000000000226728358         * 1.033
+4                                CueToTarget:LocationCongruency 0.999     2, 85.9 0.0001219999999999999974438850         * 1.047
+5                    CueCondition:CueToTarget:FlankerCongruency 0.923  1.85, 79.4 0.0240000000000000004996003611         * 0.963
+6                   CueCondition:CueToTarget:LocationCongruency 0.965 1.93, 82.96 0.9719999999999999751310042484           1.009
+7              CueToTarget:FlankerCongruency:LocationCongruency 0.992 1.98, 85.28 0.6250000000000000000000000000           1.039
+8 CueCondition:CueToTarget:FlankerCongruency:LocationCongruency 0.943 1.89, 81.12 0.3390000000000000235367281221           0.985
+       DF[HF]                           p[HF] p[HF]<.05
+1 1.95, 83.91 0.00000000000000000000000000531         *
+2 2.07, 88.91 0.00000000000003440000000000000         *
+3 2.07, 88.88 0.00033500000000000001131039706         *
+4 2.09, 90.08 0.00012199999999999999744388496         *
+5  1.93, 82.8 0.02199999999999999872324352168         *
+6 2.02, 86.78 0.97499999999999997779553950750          
+7 2.08, 89.38 0.62700000000000000177635683940          
+8 1.97, 84.72 0.34100000000000002531308496145          
+
+ANOVA results for reporting: 
+CueCondition: F(1,43) = 204.81, p < 0.001, ηp² = 0.826
+CueToTarget: F(2,86) = 138.44, p < 0.001, ηp² = 0.763
+FlankerCongruency: F(1,43) = 655.63, p < 0.001, ηp² = 0.938
+LocationCongruency: F(1,43) = 0.03, p > 0.05, ηp² = 0.001
+CueCondition:CueToTarget: F(2,86) = 45.43, p < 0.001, ηp² = 0.514
+CueCondition:FlankerCongruency: F(1,43) = 31.08, p < 0.001, ηp² = 0.42
+CueToTarget:FlankerCongruency: F(2,86) = 8.8, p < 0.001, ηp² = 0.17
+CueCondition:LocationCongruency: F(1,43) = 0.02, p > 0.05, ηp² = 0
+CueToTarget:LocationCongruency: F(2,86) = 10.03, p < 0.001, ηp² = 0.189
+FlankerCongruency:LocationCongruency: F(1,43) = 5.08, p < 0.05, ηp² = 0.106
+CueCondition:CueToTarget:FlankerCongruency: F(2,86) = 4.06, p < 0.05, ηp² = 0.086
+CueCondition:CueToTarget:LocationCongruency: F(2,86) = 0.03, p > 0.05, ηp² = 0.001
+CueCondition:FlankerCongruency:LocationCongruency: F(1,43) = 9.54, p < 0.01, ηp² = 0.182
+CueToTarget:FlankerCongruency:LocationCongruency: F(2,86) = 0.47, p > 0.05, ηp² = 0.011
+CueCondition:CueToTarget:FlankerCongruency:LocationCongruency: F(2,86) = 1.09, p > 0.05, ηp² = 0.025
+
+Main Effects
+     CueCondition
+     valid = 560.9
+     double = 609.41
+
+     CueToTarget
+     0 = 620.77
+     400 = 568.89
+     800 = 565.82
+
+     FlankerCongruency
+     congruent = 525.73
+     incongruent = 644.59
+
+     LocationCongruency
+     congruent = 585.43
+     incongruent = 584.89
+
+     CueCondition : CueToTarget
+     valid : 0 = 616.97
+     valid : 400 = 535.01
+     valid : 800 = 530.74
+     double : 0 = 624.57
+     double : 400 = 602.77
+     double : 800 = 600.9
+
+     CueCondition : FlankerCongruency
+     valid : congruent = 508.59
+     valid : incongruent = 613.21
+     double : congruent = 542.86
+     double : incongruent = 675.97
+
+     CueCondition : LocationCongruency
+     valid : congruent = 560.97
+     valid : incongruent = 560.84
+     double : congruent = 609.89
+     double : incongruent = 608.94
+
+     CueToTarget : FlankerCongruency
+     0 : congruent = 560.61
+     400 : congruent = 502.49
+     800 : congruent = 514.08
+     0 : incongruent = 680.93
+     400 : incongruent = 635.29
+     800 : incongruent = 617.55
+
+     CueToTarget : LocationCongruency
+     0 : congruent = 622.4
+     400 : congruent = 560.8
+     800 : congruent = 573.08
+     0 : incongruent = 619.14
+     400 : incongruent = 576.98
+     800 : incongruent = 558.55
+
+     FlankerCongruency : LocationCongruency
+     congruent : congruent = 522.52
+     congruent : incongruent = 528.93
+     incongruent : congruent = 648.33
+     incongruent : incongruent = 640.85
+
+     CueCondition : CueToTarget : FlankerCongruency
+     valid : 0 : congruent = 561.25
+     valid : 400 : congruent = 480.44
+     valid : 800 : congruent = 484.09
+     double : 0 : congruent = 559.97
+     double : 400 : congruent = 524.53
+     double : 800 : congruent = 544.07
+     valid : 0 : incongruent = 672.69
+     valid : 400 : incongruent = 589.57
+     valid : 800 : incongruent = 577.38
+     double : 0 : incongruent = 689.17
+     double : 400 : incongruent = 681
+     double : 800 : incongruent = 657.73
+
+     CueCondition : CueToTarget : LocationCongruency
+     valid : 0 : congruent = 618.06
+     valid : 400 : congruent = 527.05
+     valid : 800 : congruent = 537.79
+     double : 0 : congruent = 626.75
+     double : 400 : congruent = 594.54
+     double : 800 : congruent = 608.37
+     valid : 0 : incongruent = 615.88
+     valid : 400 : incongruent = 542.96
+     valid : 800 : incongruent = 523.68
+     double : 0 : incongruent = 622.39
+     double : 400 : incongruent = 610.99
+     double : 800 : incongruent = 593.43
+
+     CueToTarget : FlankerCongruency : LocationCongruency
+     0 : congruent : congruent = 557.36
+     400 : congruent : congruent = 490.66
+     800 : congruent : congruent = 519.55
+     0 : incongruent : congruent = 687.45
+     400 : incongruent : congruent = 630.94
+     800 : incongruent : congruent = 626.61
+     0 : congruent : incongruent = 563.86
+     400 : congruent : incongruent = 514.32
+     800 : congruent : incongruent = 508.61
+     0 : incongruent : incongruent = 674.41
+     400 : incongruent : incongruent = 639.63
+     800 : incongruent : incongruent = 608.5
+
+     CueCondition : CueToTarget : FlankerCongruency : LocationCongruency
+     valid : 0 : congruent : congruent = 563.3
+     valid : 400 : congruent : congruent = 471.34
+     valid : 800 : congruent : congruent = 491.11
+     valid : 0 : incongruent : congruent = 672.82
+     valid : 400 : incongruent : congruent = 582.77
+     valid : 800 : incongruent : congruent = 584.47
+     valid : 0 : congruent : incongruent = 559.19
+     valid : 400 : congruent : incongruent = 489.55
+     valid : 800 : congruent : incongruent = 477.07
+     valid : 0 : incongruent : incongruent = 672.56
+     valid : 400 : incongruent : incongruent = 596.37
+     valid : 800 : incongruent : incongruent = 570.28
+     double : 0 : congruent : congruent = 551.41
+     double : 400 : congruent : congruent = 509.98
+     double : 800 : congruent : congruent = 547.99
+     double : 0 : incongruent : congruent = 702.08
+     double : 400 : incongruent : congruent = 679.11
+     double : 800 : incongruent : congruent = 668.75
+     double : 0 : congruent : incongruent = 568.53
+     double : 400 : congruent : incongruent = 539.09
+     double : 800 : congruent : incongruent = 540.15
+     double : 0 : incongruent : incongruent = 676.25
+     double : 400 : incongruent : incongruent = 682.9
+     double : 800 : incongruent : incongruent = 646.71
+
+
+
+ANT-R (ACC)
+ANOVA Table (type III tests)
+
+$ANOVA
+                                                          Effect DFn DFd      F             p p<.05      pes
+1                                                   CueCondition   1  43  4.347 0.04300000000     * 0.092000
+2                                                    CueToTarget   2  86  5.536 0.00500000000     * 0.114000
+3                                              FlankerCongruency   1  43 55.432 0.00000000293     * 0.563000
+4                                             LocationCongruency   1  43  1.024 0.31700000000       0.023000
+5                                       CueCondition:CueToTarget   2  86  3.675 0.02900000000     * 0.079000
+6                                 CueCondition:FlankerCongruency   1  43  4.637 0.03700000000     * 0.097000
+7                                  CueToTarget:FlankerCongruency   2  86 11.592 0.00003490000     * 0.212000
+8                                CueCondition:LocationCongruency   1  43  1.679 0.20200000000       0.038000
+9                                 CueToTarget:LocationCongruency   2  86  3.633 0.03100000000     * 0.078000
+10                          FlankerCongruency:LocationCongruency   1  43  4.190 0.04700000000     * 0.089000
+11                    CueCondition:CueToTarget:FlankerCongruency   2  86  2.946 0.05800000000       0.064000
+12                   CueCondition:CueToTarget:LocationCongruency   2  86  0.006 0.99400000000       0.000148
+13             CueCondition:FlankerCongruency:LocationCongruency   1  43  0.030 0.86300000000       0.000699
+14              CueToTarget:FlankerCongruency:LocationCongruency   2  86  2.835 0.06400000000       0.062000
+15 CueCondition:CueToTarget:FlankerCongruency:LocationCongruency   2  86  0.085 0.91900000000       0.002000
+
+$`Mauchly's Test for Sphericity`
+                                                         Effect     W     p p<.05
+1                                                   CueToTarget 0.943 0.290      
+2                                      CueCondition:CueToTarget 0.929 0.213      
+3                                 CueToTarget:FlankerCongruency 0.995 0.904      
+4                                CueToTarget:LocationCongruency 0.917 0.163      
+5                    CueCondition:CueToTarget:FlankerCongruency 0.964 0.464      
+6                   CueCondition:CueToTarget:LocationCongruency 0.790 0.007     *
+7              CueToTarget:FlankerCongruency:LocationCongruency 0.932 0.228      
+8 CueCondition:CueToTarget:FlankerCongruency:LocationCongruency 0.902 0.115      
+
+$`Sphericity Corrections`
+                                                         Effect   GGe      DF[GG]     p[GG] p[GG]<.05   HFe      DF[HF]     p[HF]
+1                                                   CueToTarget 0.946 1.89, 81.34 0.0060000         * 0.988 1.98, 84.97 0.0060000
+2                                      CueCondition:CueToTarget 0.934  1.87, 80.3 0.0320000         * 0.975 1.95, 83.81 0.0310000
+3                                 CueToTarget:FlankerCongruency 0.995 1.99, 85.59 0.0000361         * 1.043 2.09, 89.73 0.0000349
+4                                CueToTarget:LocationCongruency 0.924 1.85, 79.43 0.0340000         * 0.963 1.93, 82.84 0.0320000
+5                    CueCondition:CueToTarget:FlankerCongruency 0.965 1.93, 83.02 0.0600000           1.010 2.02, 86.85 0.0580000
+6                   CueCondition:CueToTarget:LocationCongruency 0.826 1.65, 71.08 0.9860000           0.855 1.71, 73.56 0.9880000
+7              CueToTarget:FlankerCongruency:LocationCongruency 0.936 1.87, 80.53 0.0680000           0.977 1.95, 84.06 0.0660000
+8 CueCondition:CueToTarget:FlankerCongruency:LocationCongruency 0.911 1.82, 78.32 0.9030000           0.949   1.9, 81.6 0.9100000
+  p[HF]<.05
+1         *
+2         *
+3         *
+4         *
+5          
+6          
+7          
+8          
+
+ANOVA results for reporting: 
+CueCondition: F(1,43) = 4.35, p < 0.05, ηp² = 0.092
+CueToTarget: F(2,86) = 5.54, p < 0.01, ηp² = 0.114
+FlankerCongruency: F(1,43) = 55.43, p < 0.001, ηp² = 0.563
+LocationCongruency: F(1,43) = 1.02, p > 0.05, ηp² = 0.023
+CueCondition:CueToTarget: F(2,86) = 3.68, p < 0.05, ηp² = 0.079
+CueCondition:FlankerCongruency: F(1,43) = 4.64, p < 0.05, ηp² = 0.097
+CueToTarget:FlankerCongruency: F(2,86) = 11.59, p < 0.001, ηp² = 0.212
+CueCondition:LocationCongruency: F(1,43) = 1.68, p > 0.05, ηp² = 0.038
+CueToTarget:LocationCongruency: F(2,86) = 3.63, p < 0.05, ηp² = 0.078
+FlankerCongruency:LocationCongruency: F(1,43) = 4.19, p < 0.05, ηp² = 0.089
+CueCondition:CueToTarget:FlankerCongruency: F(2,86) = 2.95, p > 0.05, ηp² = 0.064
+CueCondition:CueToTarget:LocationCongruency: F(2,86) = 0.01, p > 0.05, ηp² = 0
+CueCondition:FlankerCongruency:LocationCongruency: F(1,43) = 0.03, p > 0.05, ηp² = 0.001
+CueToTarget:FlankerCongruency:LocationCongruency: F(2,86) = 2.84, p > 0.05, ηp² = 0.062
+CueCondition:CueToTarget:FlankerCongruency:LocationCongruency: F(2,86) = 0.09, p > 0.05, ηp² = 0.002
+
+Main Effects
+     CueCondition
+     valid = 96.42
+     double = 95.17
+
+     CueToTarget
+     0 = 95.15
+     400 = 95.31
+     800 = 96.92
+
+     FlankerCongruency
+     congruent = 99.12
+     incongruent = 92.47
+
+     LocationCongruency
+     congruent = 96.07
+     incongruent = 95.52
+
+     CueCondition : CueToTarget
+     valid : 0 = 94.98
+     valid : 400 = 96.73
+     valid : 800 = 97.54
+     double : 0 = 95.31
+     double : 400 = 93.89
+     double : 800 = 96.31
+
+     CueCondition : FlankerCongruency
+     valid : congruent = 99.18
+     valid : incongruent = 93.66
+     double : congruent = 99.05
+     double : incongruent = 91.29
+
+     CueCondition : LocationCongruency
+     valid : congruent = 96.97
+     valid : incongruent = 95.86
+     double : congruent = 95.17
+     double : incongruent = 95.17
+
+     CueToTarget : FlankerCongruency
+     0 : congruent = 99.34
+     400 : congruent = 99.43
+     800 : congruent = 98.58
+     0 : incongruent = 90.96
+     400 : incongruent = 91.19
+     800 : incongruent = 95.27
+
+     CueToTarget : LocationCongruency
+     0 : congruent = 96.45
+     400 : congruent = 95.41
+     800 : congruent = 96.35
+     0 : incongruent = 93.84
+     400 : incongruent = 95.22
+     800 : incongruent = 97.49
+
+     FlankerCongruency : LocationCongruency
+     congruent : congruent = 98.86
+     congruent : incongruent = 99.37
+     incongruent : congruent = 93.28
+     incongruent : incongruent = 91.67
+
+     CueCondition : CueToTarget : FlankerCongruency
+     valid : 0 : congruent = 98.96
+     valid : 400 : congruent = 99.43
+     valid : 800 : congruent = 99.15
+     double : 0 : congruent = 99.72
+     double : 400 : congruent = 99.43
+     double : 800 : congruent = 98.01
+     valid : 0 : incongruent = 91
+     valid : 400 : incongruent = 94.03
+     valid : 800 : incongruent = 95.93
+     double : 0 : incongruent = 90.91
+     double : 400 : incongruent = 88.35
+     double : 800 : incongruent = 94.6
+
+     CueCondition : CueToTarget : LocationCongruency
+     valid : 0 : congruent = 96.59
+     valid : 400 : congruent = 97.06
+     valid : 800 : congruent = 97.25
+     double : 0 : congruent = 96.31
+     double : 400 : congruent = 93.75
+     double : 800 : congruent = 95.45
+     valid : 0 : incongruent = 93.37
+     valid : 400 : incongruent = 96.4
+     valid : 800 : incongruent = 97.82
+     double : 0 : incongruent = 94.32
+     double : 400 : incongruent = 94.03
+     double : 800 : incongruent = 97.16
+
+     CueToTarget : FlankerCongruency : LocationCongruency
+     0 : congruent : congruent = 99.24
+     400 : congruent : congruent = 99.24
+     800 : congruent : congruent = 98.11
+     0 : incongruent : congruent = 93.66
+     400 : incongruent : congruent = 91.57
+     800 : incongruent : congruent = 94.6
+     0 : congruent : incongruent = 99.43
+     400 : congruent : incongruent = 99.62
+     800 : congruent : incongruent = 99.05
+     0 : incongruent : incongruent = 88.26
+     400 : incongruent : incongruent = 90.81
+     800 : incongruent : incongruent = 95.93
+
+     CueCondition : CueToTarget : FlankerCongruency : LocationCongruency
+     valid : 0 : congruent : congruent = 99.05
+     valid : 400 : congruent : congruent = 99.62
+     valid : 800 : congruent : congruent = 99.05
+     valid : 0 : incongruent : congruent = 94.13
+     valid : 400 : incongruent : congruent = 94.51
+     valid : 800 : incongruent : congruent = 95.45
+     valid : 0 : congruent : incongruent = 98.86
+     valid : 400 : congruent : incongruent = 99.24
+     valid : 800 : congruent : incongruent = 99.24
+     valid : 0 : incongruent : incongruent = 87.88
+     valid : 400 : incongruent : incongruent = 93.56
+     valid : 800 : incongruent : incongruent = 96.4
+     double : 0 : congruent : congruent = 99.43
+     double : 400 : congruent : congruent = 98.86
+     double : 800 : congruent : congruent = 97.16
+     double : 0 : incongruent : congruent = 93.18
+     double : 400 : incongruent : congruent = 88.64
+     double : 800 : incongruent : congruent = 93.75
+     double : 0 : congruent : incongruent = 100
+     double : 400 : congruent : incongruent = 100
+     double : 800 : congruent : incongruent = 98.86
+     double : 0 : incongruent : incongruent = 88.64
+     double : 400 : incongruent : incongruent = 88.07
+     double : 800 : incongruent : incongruent = 95.45
+
+
+
+ANT-VR (RT)
+ANOVA Table (type III tests)
+
+$ANOVA
+                                                          Effect DFn DFd       F                         p p<.05      pes
+1                                                   CueCondition   1  43 136.346 0.00000000000000637000000     * 0.760000
+2                                                    CueToTarget   2  86  39.751 0.00000000000059500000000     * 0.480000
+3                                              FlankerCongruency   1  43 297.106 0.00000000000000000000632     * 0.874000
+4                                             LocationCongruency   1  43   1.534 0.22200000000000000288658       0.034000
+5                                       CueCondition:CueToTarget   2  86   5.976 0.00400000000000000008327     * 0.122000
+6                                 CueCondition:FlankerCongruency   1  43   2.075 0.15700000000000000066613       0.046000
+7                                  CueToTarget:FlankerCongruency   2  86   3.827 0.02599999999999999880651     * 0.082000
+8                                CueCondition:LocationCongruency   1  43   0.018 0.89300000000000001598721       0.000423
+9                                 CueToTarget:LocationCongruency   2  86   0.849 0.43199999999999999511502       0.019000
+10                          FlankerCongruency:LocationCongruency   1  43   1.996 0.16500000000000000777156       0.044000
+11                    CueCondition:CueToTarget:FlankerCongruency   2  86   1.043 0.35699999999999998401279       0.024000
+12                   CueCondition:CueToTarget:LocationCongruency   2  86   0.317 0.72899999999999998134825       0.007000
+13             CueCondition:FlankerCongruency:LocationCongruency   1  43   3.039 0.08799999999999999489297       0.066000
+14              CueToTarget:FlankerCongruency:LocationCongruency   2  86   0.087 0.91700000000000003730349       0.002000
+15 CueCondition:CueToTarget:FlankerCongruency:LocationCongruency   2  86   1.728 0.18399999999999999689138       0.039000
+
+$`Mauchly's Test for Sphericity`
+                                                         Effect     W     p p<.05
+1                                                   CueToTarget 0.747 0.002     *
+2                                      CueCondition:CueToTarget 0.994 0.888      
+3                                 CueToTarget:FlankerCongruency 0.888 0.082      
+4                                CueToTarget:LocationCongruency 0.997 0.935      
+5                    CueCondition:CueToTarget:FlankerCongruency 0.951 0.347      
+6                   CueCondition:CueToTarget:LocationCongruency 0.971 0.539      
+7              CueToTarget:FlankerCongruency:LocationCongruency 0.941 0.281      
+8 CueCondition:CueToTarget:FlankerCongruency:LocationCongruency 0.990 0.815      
+
+$`Sphericity Corrections`
+                                                         Effect   GGe      DF[GG]           p[GG] p[GG]<.05   HFe      DF[HF]
+1                                                   CueToTarget 0.798  1.6, 68.64 0.0000000000845         * 0.824 1.65, 70.86
+2                                      CueCondition:CueToTarget 0.994 1.99, 85.52 0.0040000000000         * 1.042 2.08, 89.65
+3                                 CueToTarget:FlankerCongruency 0.899  1.8, 77.32 0.0300000000000         * 0.936 1.87, 80.49
+4                                CueToTarget:LocationCongruency 0.997 1.99, 85.73 0.4310000000000           1.045 2.09, 89.89
+5                    CueCondition:CueToTarget:FlankerCongruency 0.953 1.91, 81.97 0.3540000000000           0.996 1.99, 85.67
+6                   CueCondition:CueToTarget:LocationCongruency 0.972 1.94, 83.58 0.7230000000000           1.017 2.03, 87.47
+7              CueToTarget:FlankerCongruency:LocationCongruency 0.945 1.89, 81.23 0.9070000000000           0.987 1.97, 84.85
+8 CueCondition:CueToTarget:FlankerCongruency:LocationCongruency 0.990 1.98, 85.18 0.1840000000000           1.038 2.08, 89.27
+            p[HF] p[HF]<.05
+1 0.0000000000447         *
+2 0.0040000000000         *
+3 0.0280000000000         *
+4 0.4320000000000          
+5 0.3560000000000          
+6 0.7290000000000          
+7 0.9150000000000          
+8 0.1840000000000          
+
+ANOVA results for reporting: 
+CueCondition: F(1,43) = 136.35, p < 0.001, ηp² = 0.76
+CueToTarget: F(2,86) = 39.75, p < 0.001, ηp² = 0.48
+FlankerCongruency: F(1,43) = 297.11, p < 0.001, ηp² = 0.874
+LocationCongruency: F(1,43) = 1.53, p > 0.05, ηp² = 0.034
+CueCondition:CueToTarget: F(2,86) = 5.98, p < 0.01, ηp² = 0.122
+CueCondition:FlankerCongruency: F(1,43) = 2.08, p > 0.05, ηp² = 0.046
+CueToTarget:FlankerCongruency: F(2,86) = 3.83, p < 0.05, ηp² = 0.082
+CueCondition:LocationCongruency: F(1,43) = 0.02, p > 0.05, ηp² = 0
+CueToTarget:LocationCongruency: F(2,86) = 0.85, p > 0.05, ηp² = 0.019
+FlankerCongruency:LocationCongruency: F(1,43) = 2, p > 0.05, ηp² = 0.044
+CueCondition:CueToTarget:FlankerCongruency: F(2,86) = 1.04, p > 0.05, ηp² = 0.024
+CueCondition:CueToTarget:LocationCongruency: F(2,86) = 0.32, p > 0.05, ηp² = 0.007
+CueCondition:FlankerCongruency:LocationCongruency: F(1,43) = 3.04, p > 0.05, ηp² = 0.066
+CueToTarget:FlankerCongruency:LocationCongruency: F(2,86) = 0.09, p > 0.05, ηp² = 0.002
+CueCondition:CueToTarget:FlankerCongruency:LocationCongruency: F(2,86) = 1.73, p > 0.05, ηp² = 0.039
+
+Main Effects
+     CueCondition
+     valid = 624.91
+     double = 668.85
+
+     CueToTarget
+     0 = 668.87
+     400 = 633.99
+     800 = 637.79
+
+     FlankerCongruency
+     congruent = 618.48
+     incongruent = 675.28
+
+     LocationCongruency
+     congruent = 643.66
+     incongruent = 650.1
+
+     CueCondition : CueToTarget
+     valid : 0 = 654.75
+     valid : 400 = 605.37
+     valid : 800 = 614.63
+     double : 0 = 682.99
+     double : 400 = 662.61
+     double : 800 = 660.95
+
+     CueCondition : FlankerCongruency
+     valid : congruent = 598.43
+     valid : incongruent = 651.4
+     double : congruent = 638.54
+     double : incongruent = 699.16
+
+     CueCondition : LocationCongruency
+     valid : congruent = 621.46
+     valid : incongruent = 628.37
+     double : congruent = 665.86
+     double : incongruent = 671.84
+
+     CueToTarget : FlankerCongruency
+     0 : congruent = 636.78
+     400 : congruent = 610.42
+     800 : congruent = 608.24
+     0 : incongruent = 700.95
+     400 : incongruent = 657.55
+     800 : incongruent = 667.34
+
+     CueToTarget : LocationCongruency
+     0 : congruent = 668.16
+     400 : congruent = 630.89
+     800 : congruent = 631.92
+     0 : incongruent = 669.57
+     400 : incongruent = 637.08
+     800 : incongruent = 643.65
+
+     FlankerCongruency : LocationCongruency
+     congruent : congruent = 617.63
+     congruent : incongruent = 619.34
+     incongruent : congruent = 669.69
+     incongruent : incongruent = 680.87
+
+     CueCondition : CueToTarget : FlankerCongruency
+     valid : 0 : congruent = 623.09
+     valid : 400 : congruent = 582.39
+     valid : 800 : congruent = 589.8
+     double : 0 : congruent = 650.48
+     double : 400 : congruent = 638.45
+     double : 800 : congruent = 626.68
+     valid : 0 : incongruent = 686.4
+     valid : 400 : incongruent = 628.34
+     valid : 800 : incongruent = 639.46
+     double : 0 : incongruent = 715.5
+     double : 400 : incongruent = 686.76
+     double : 800 : incongruent = 695.22
+
+     CueCondition : CueToTarget : LocationCongruency
+     valid : 0 : congruent = 652.67
+     valid : 400 : congruent = 601.46
+     valid : 800 : congruent = 610.24
+     double : 0 : congruent = 683.65
+     double : 400 : congruent = 660.31
+     double : 800 : congruent = 653.6
+     valid : 0 : incongruent = 656.82
+     valid : 400 : incongruent = 609.27
+     valid : 800 : incongruent = 619.01
+     double : 0 : incongruent = 682.33
+     double : 400 : incongruent = 664.9
+     double : 800 : incongruent = 668.3
+
+     CueToTarget : FlankerCongruency : LocationCongruency
+     0 : congruent : congruent = 638.9
+     400 : congruent : congruent = 610.31
+     800 : congruent : congruent = 603.68
+     0 : incongruent : congruent = 697.43
+     400 : incongruent : congruent = 651.47
+     800 : incongruent : congruent = 660.17
+     0 : congruent : incongruent = 634.67
+     400 : congruent : incongruent = 610.53
+     800 : congruent : incongruent = 612.8
+     0 : incongruent : incongruent = 704.48
+     400 : incongruent : incongruent = 663.63
+     800 : incongruent : incongruent = 674.51
+
+     CueCondition : CueToTarget : FlankerCongruency : LocationCongruency
+     valid : 0 : congruent : congruent = 623.99
+     valid : 400 : congruent : congruent = 575.4
+     valid : 800 : congruent : congruent = 582.05
+     valid : 0 : incongruent : congruent = 681.36
+     valid : 400 : incongruent : congruent = 627.53
+     valid : 800 : incongruent : congruent = 638.44
+     valid : 0 : congruent : incongruent = 622.19
+     valid : 400 : congruent : incongruent = 589.38
+     valid : 800 : congruent : incongruent = 597.56
+     valid : 0 : incongruent : incongruent = 691.45
+     valid : 400 : incongruent : incongruent = 629.16
+     valid : 800 : incongruent : incongruent = 640.47
+     double : 0 : congruent : congruent = 653.81
+     double : 400 : congruent : congruent = 645.21
+     double : 800 : congruent : congruent = 625.31
+     double : 0 : incongruent : congruent = 713.5
+     double : 400 : incongruent : congruent = 675.41
+     double : 800 : incongruent : congruent = 681.9
+     double : 0 : congruent : incongruent = 647.14
+     double : 400 : congruent : incongruent = 631.69
+     double : 800 : congruent : incongruent = 628.05
+     double : 0 : incongruent : incongruent = 717.51
+     double : 400 : incongruent : incongruent = 698.11
+     double : 800 : incongruent : incongruent = 708.55
+
+
+
+ANT-VR (ACC)
+ANOVA Table (type III tests)
+
+$ANOVA
+                                                          Effect DFn DFd      F           p p<.05      pes
+1                                                   CueCondition   1  43  0.014 0.905000000       0.000332
+2                                                    CueToTarget   2  86  2.611 0.079000000       0.057000
+3                                              FlankerCongruency   1  43 33.374 0.000000771     * 0.437000
+4                                             LocationCongruency   1  43  0.680 0.414000000       0.016000
+5                                       CueCondition:CueToTarget   2  86  3.772 0.027000000     * 0.081000
+6                                 CueCondition:FlankerCongruency   1  43  1.615 0.211000000       0.036000
+7                                  CueToTarget:FlankerCongruency   2  86  2.742 0.070000000       0.060000
+8                                CueCondition:LocationCongruency   1  43  0.543 0.465000000       0.012000
+9                                 CueToTarget:LocationCongruency   2  86  3.181 0.046000000     * 0.069000
+10                          FlankerCongruency:LocationCongruency   1  43  0.346 0.559000000       0.008000
+11                    CueCondition:CueToTarget:FlankerCongruency   2  86  0.499 0.609000000       0.011000
+12                   CueCondition:CueToTarget:LocationCongruency   2  86  0.780 0.462000000       0.018000
+13             CueCondition:FlankerCongruency:LocationCongruency   1  43  1.552 0.220000000       0.035000
+14              CueToTarget:FlankerCongruency:LocationCongruency   2  86  3.340 0.040000000     * 0.072000
+15 CueCondition:CueToTarget:FlankerCongruency:LocationCongruency   2  86  2.780 0.068000000       0.061000
+
+$`Mauchly's Test for Sphericity`
+                                                         Effect     W     p p<.05
+1                                                   CueToTarget 0.972 0.552      
+2                                      CueCondition:CueToTarget 0.947 0.319      
+3                                 CueToTarget:FlankerCongruency 0.990 0.806      
+4                                CueToTarget:LocationCongruency 0.947 0.319      
+5                    CueCondition:CueToTarget:FlankerCongruency 0.818 0.015     *
+6                   CueCondition:CueToTarget:LocationCongruency 0.919 0.169      
+7              CueToTarget:FlankerCongruency:LocationCongruency 0.876 0.062      
+8 CueCondition:CueToTarget:FlankerCongruency:LocationCongruency 0.872 0.057      
+
+$`Sphericity Corrections`
+                                                         Effect   GGe      DF[GG] p[GG] p[GG]<.05   HFe      DF[HF] p[HF] p[HF]<.05
+1                                                   CueToTarget 0.973 1.95, 83.67 0.081           1.018 2.04, 87.58 0.079          
+2                                      CueCondition:CueToTarget 0.950  1.9, 81.67 0.029         * 0.992 1.98, 85.34 0.027         *
+3                                 CueToTarget:FlankerCongruency 0.990 1.98, 85.13 0.071           1.037 2.07, 89.22 0.070          
+4                                CueToTarget:LocationCongruency 0.950  1.9, 81.67 0.049         * 0.992 1.98, 85.34 0.047         *
+5                    CueCondition:CueToTarget:FlankerCongruency 0.846 1.69, 72.73 0.578           0.877 1.75, 75.39 0.585          
+6                   CueCondition:CueToTarget:LocationCongruency 0.925 1.85, 79.55 0.453           0.965 1.93, 82.97 0.458          
+7              CueToTarget:FlankerCongruency:LocationCongruency 0.890  1.78, 76.5 0.046         * 0.925 1.85, 79.57 0.044         *
+8 CueCondition:CueToTarget:FlankerCongruency:LocationCongruency 0.887 1.77, 76.27 0.075           0.922 1.84, 79.31 0.072          
+
+ANOVA results for reporting: 
+CueCondition: F(1,43) = 0.01, p > 0.05, ηp² = 0
+CueToTarget: F(2,86) = 2.61, p > 0.05, ηp² = 0.057
+FlankerCongruency: F(1,43) = 33.37, p < 0.001, ηp² = 0.437
+LocationCongruency: F(1,43) = 0.68, p > 0.05, ηp² = 0.016
+CueCondition:CueToTarget: F(2,86) = 3.77, p < 0.05, ηp² = 0.081
+CueCondition:FlankerCongruency: F(1,43) = 1.62, p > 0.05, ηp² = 0.036
+CueToTarget:FlankerCongruency: F(2,86) = 2.74, p > 0.05, ηp² = 0.06
+CueCondition:LocationCongruency: F(1,43) = 0.54, p > 0.05, ηp² = 0.012
+CueToTarget:LocationCongruency: F(2,86) = 3.18, p < 0.05, ηp² = 0.069
+FlankerCongruency:LocationCongruency: F(1,43) = 0.35, p > 0.05, ηp² = 0.008
+CueCondition:CueToTarget:FlankerCongruency: F(2,86) = 0.5, p > 0.05, ηp² = 0.011
+CueCondition:CueToTarget:LocationCongruency: F(2,86) = 0.78, p > 0.05, ηp² = 0.018
+CueCondition:FlankerCongruency:LocationCongruency: F(1,43) = 1.55, p > 0.05, ηp² = 0.035
+CueToTarget:FlankerCongruency:LocationCongruency: F(2,86) = 3.34, p < 0.05, ηp² = 0.072
+CueCondition:CueToTarget:FlankerCongruency:LocationCongruency: F(2,86) = 2.78, p > 0.05, ηp² = 0.061
+
+Main Effects
+     CueCondition
+     valid = 95.75
+     double = 95.69
+
+     CueToTarget
+     0 = 95.08
+     400 = 95.83
+     800 = 96.26
+
+     FlankerCongruency
+     congruent = 97.27
+     incongruent = 94.18
+
+     LocationCongruency
+     congruent = 95.96
+     incongruent = 95.49
+
+     CueCondition : CueToTarget
+     valid : 0 = 94.27
+     valid : 400 = 96.5
+     valid : 800 = 96.5
+     double : 0 = 95.88
+     double : 400 = 95.17
+     double : 800 = 96.02
+
+     CueCondition : FlankerCongruency
+     valid : congruent = 97.57
+     valid : incongruent = 93.94
+     double : congruent = 96.97
+     double : incongruent = 94.41
+
+     CueCondition : LocationCongruency
+     valid : congruent = 95.8
+     valid : incongruent = 95.71
+     double : congruent = 96.12
+     double : incongruent = 95.27
+
+     CueToTarget : FlankerCongruency
+     0 : congruent = 97.21
+     400 : congruent = 96.5
+     800 : congruent = 98.11
+     0 : incongruent = 92.95
+     400 : incongruent = 95.17
+     800 : incongruent = 94.41
+
+     CueToTarget : LocationCongruency
+     0 : congruent = 94.84
+     400 : congruent = 95.69
+     800 : congruent = 97.35
+     0 : incongruent = 95.31
+     400 : incongruent = 95.98
+     800 : incongruent = 95.17
+
+     FlankerCongruency : LocationCongruency
+     congruent : congruent = 97.35
+     congruent : incongruent = 97.19
+     incongruent : congruent = 94.57
+     incongruent : incongruent = 93.78
+
+     CueCondition : CueToTarget : FlankerCongruency
+     valid : 0 : congruent = 96.97
+     valid : 400 : congruent = 97.54
+     valid : 800 : congruent = 98.2
+     double : 0 : congruent = 97.44
+     double : 400 : congruent = 95.45
+     double : 800 : congruent = 98.01
+     valid : 0 : incongruent = 91.57
+     valid : 400 : incongruent = 95.45
+     valid : 800 : incongruent = 94.79
+     double : 0 : incongruent = 94.32
+     double : 400 : incongruent = 94.89
+     double : 800 : incongruent = 94.03
+
+     CueCondition : CueToTarget : LocationCongruency
+     valid : 0 : congruent = 93.94
+     valid : 400 : congruent = 96.5
+     valid : 800 : congruent = 96.97
+     double : 0 : congruent = 95.74
+     double : 400 : congruent = 94.89
+     double : 800 : congruent = 97.73
+     valid : 0 : incongruent = 94.6
+     valid : 400 : incongruent = 96.5
+     valid : 800 : incongruent = 96.02
+     double : 0 : incongruent = 96.02
+     double : 400 : incongruent = 95.45
+     double : 800 : incongruent = 94.32
+
+     CueToTarget : FlankerCongruency : LocationCongruency
+     0 : congruent : congruent = 97.44
+     400 : congruent : congruent = 96.5
+     800 : congruent : congruent = 98.11
+     0 : incongruent : congruent = 92.23
+     400 : incongruent : congruent = 94.89
+     800 : incongruent : congruent = 96.59
+     0 : congruent : incongruent = 96.97
+     400 : congruent : incongruent = 96.5
+     800 : congruent : incongruent = 98.11
+     0 : incongruent : incongruent = 93.66
+     400 : incongruent : incongruent = 95.45
+     800 : incongruent : incongruent = 92.23
+
+     CueCondition : CueToTarget : FlankerCongruency : LocationCongruency
+     valid : 0 : congruent : congruent = 96.59
+     valid : 400 : congruent : congruent = 98.11
+     valid : 800 : congruent : congruent = 98.48
+     valid : 0 : incongruent : congruent = 91.29
+     valid : 400 : incongruent : congruent = 94.89
+     valid : 800 : incongruent : congruent = 95.45
+     valid : 0 : congruent : incongruent = 97.35
+     valid : 400 : congruent : incongruent = 96.97
+     valid : 800 : congruent : incongruent = 97.92
+     valid : 0 : incongruent : incongruent = 91.86
+     valid : 400 : incongruent : incongruent = 96.02
+     valid : 800 : incongruent : incongruent = 94.13
+     double : 0 : congruent : congruent = 98.3
+     double : 400 : congruent : congruent = 94.89
+     double : 800 : congruent : congruent = 97.73
+     double : 0 : incongruent : congruent = 93.18
+     double : 400 : incongruent : congruent = 94.89
+     double : 800 : incongruent : congruent = 97.73
+     double : 0 : congruent : incongruent = 96.59
+     double : 400 : congruent : incongruent = 96.02
+     double : 800 : congruent : incongruent = 98.3
+     double : 0 : incongruent : incongruent = 95.45
+     double : 400 : incongruent : incongruent = 94.89
+     double : 800 : incongruent : incongruent = 90.34
+
+
+
+ANT-VR B (RT)
+ANOVA Table (type III tests)
+
+$ANOVA
+                                                          Effect DFn DFd      F              p p<.05   pes
+1                                                   CueCondition   1  41 39.721 0.000000161000     * 0.492
+2                                                    CueToTarget   2  82 15.601 0.000001810000     * 0.276
+3                                              FlankerCongruency   1  41 62.512 0.000000000893     * 0.604
+4                                             LocationCongruency   1  41  0.105 0.748000000000       0.003
+5                                       CueCondition:CueToTarget   2  82  2.217 0.115000000000       0.051
+6                                 CueCondition:FlankerCongruency   1  41  0.611 0.439000000000       0.015
+7                                  CueToTarget:FlankerCongruency   2  82  0.133 0.876000000000       0.003
+8                                CueCondition:LocationCongruency   1  41  3.765 0.059000000000       0.084
+9                                 CueToTarget:LocationCongruency   2  82  0.503 0.607000000000       0.012
+10                          FlankerCongruency:LocationCongruency   1  41  0.160 0.691000000000       0.004
+11                    CueCondition:CueToTarget:FlankerCongruency   2  82  0.584 0.560000000000       0.014
+12                   CueCondition:CueToTarget:LocationCongruency   2  82  0.133 0.875000000000       0.003
+13             CueCondition:FlankerCongruency:LocationCongruency   1  41  0.540 0.467000000000       0.013
+14              CueToTarget:FlankerCongruency:LocationCongruency   2  82  1.341 0.267000000000       0.032
+15 CueCondition:CueToTarget:FlankerCongruency:LocationCongruency   2  82  0.479 0.621000000000       0.012
+
+$`Mauchly's Test for Sphericity`
+                                                         Effect     W     p p<.05
+1                                                   CueToTarget 0.971 0.553      
+2                                      CueCondition:CueToTarget 0.994 0.880      
+3                                 CueToTarget:FlankerCongruency 0.985 0.736      
+4                                CueToTarget:LocationCongruency 0.940 0.291      
+5                    CueCondition:CueToTarget:FlankerCongruency 0.881 0.080      
+6                   CueCondition:CueToTarget:LocationCongruency 0.870 0.062      
+7              CueToTarget:FlankerCongruency:LocationCongruency 0.967 0.512      
+8 CueCondition:CueToTarget:FlankerCongruency:LocationCongruency 0.990 0.822      
+
+$`Sphericity Corrections`
+                                                         Effect   GGe      DF[GG]      p[GG] p[GG]<.05   HFe      DF[HF]      p[HF]
+1                                                   CueToTarget 0.972 1.94, 79.67 0.00000242         * 1.019 2.04, 83.58 0.00000181
+2                                      CueCondition:CueToTarget 0.994 1.99, 81.48 0.11600000           1.044 2.09, 85.62 0.11500000
+3                                 CueToTarget:FlankerCongruency 0.985 1.97, 80.77 0.87300000           1.034 2.07, 84.81 0.87600000
+4                                CueToTarget:LocationCongruency 0.944 1.89, 77.37 0.59600000           0.988 1.98, 80.98 0.60400000
+5                    CueCondition:CueToTarget:FlankerCongruency 0.894  1.79, 73.3 0.54200000           0.932 1.86, 76.42 0.54900000
+6                   CueCondition:CueToTarget:LocationCongruency 0.885 1.77, 72.56 0.85100000           0.922 1.84, 75.59 0.85900000
+7              CueToTarget:FlankerCongruency:LocationCongruency 0.968 1.94, 79.39 0.26700000           1.015 2.03, 83.25 0.26700000
+8 CueCondition:CueToTarget:FlankerCongruency:LocationCongruency 0.990 1.98, 81.21 0.61900000           1.040 2.08, 85.31 0.62100000
+  p[HF]<.05
+1         *
+2          
+3          
+4          
+5          
+6          
+7          
+8          
+
+ANOVA results for reporting: 
+CueCondition: F(1,41) = 39.72, p < 0.001, ηp² = 0.492
+CueToTarget: F(2,82) = 15.6, p < 0.001, ηp² = 0.276
+FlankerCongruency: F(1,41) = 62.51, p < 0.001, ηp² = 0.604
+LocationCongruency: F(1,41) = 0.11, p > 0.05, ηp² = 0.003
+CueCondition:CueToTarget: F(2,82) = 2.22, p > 0.05, ηp² = 0.051
+CueCondition:FlankerCongruency: F(1,41) = 0.61, p > 0.05, ηp² = 0.015
+CueToTarget:FlankerCongruency: F(2,82) = 0.13, p > 0.05, ηp² = 0.003
+CueCondition:LocationCongruency: F(1,41) = 3.77, p > 0.05, ηp² = 0.084
+CueToTarget:LocationCongruency: F(2,82) = 0.5, p > 0.05, ηp² = 0.012
+FlankerCongruency:LocationCongruency: F(1,41) = 0.16, p > 0.05, ηp² = 0.004
+CueCondition:CueToTarget:FlankerCongruency: F(2,82) = 0.58, p > 0.05, ηp² = 0.014
+CueCondition:CueToTarget:LocationCongruency: F(2,82) = 0.13, p > 0.05, ηp² = 0.003
+CueCondition:FlankerCongruency:LocationCongruency: F(1,41) = 0.54, p > 0.05, ηp² = 0.013
+CueToTarget:FlankerCongruency:LocationCongruency: F(2,82) = 1.34, p > 0.05, ηp² = 0.032
+CueCondition:CueToTarget:FlankerCongruency:LocationCongruency: F(2,82) = 0.48, p > 0.05, ηp² = 0.012
+
+Main Effects
+     CueCondition
+     valid = 622.24
+     double = 657.65
+
+     CueToTarget
+     0 = 659.98
+     400 = 628.04
+     800 = 631.83
+
+     FlankerCongruency
+     congruent = 612.78
+     incongruent = 667.15
+
+     LocationCongruency
+     congruent = 639.92
+     incongruent = 639.91
+
+     CueCondition : CueToTarget
+     valid : 0 = 652.02
+     valid : 400 = 609.54
+     valid : 800 = 605.16
+     double : 0 = 668.03
+     double : 400 = 646.55
+     double : 800 = 658.49
+
+     CueCondition : FlankerCongruency
+     valid : congruent = 596.6
+     valid : incongruent = 647.88
+     double : congruent = 628.95
+     double : incongruent = 686.57
+
+     CueCondition : LocationCongruency
+     valid : congruent = 618.34
+     valid : incongruent = 626.14
+     double : congruent = 661.5
+     double : incongruent = 653.78
+
+     CueToTarget : FlankerCongruency
+     0 : congruent = 632.57
+     400 : congruent = 598.94
+     800 : congruent = 606.82
+     0 : incongruent = 687.7
+     400 : incongruent = 657.15
+     800 : incongruent = 656.83
+
+     CueToTarget : LocationCongruency
+     0 : congruent = 664.94
+     400 : congruent = 626.89
+     800 : congruent = 627.93
+     0 : incongruent = 654.96
+     400 : incongruent = 629.2
+     800 : incongruent = 635.73
+
+     FlankerCongruency : LocationCongruency
+     congruent : congruent = 612.75
+     congruent : incongruent = 612.8
+     incongruent : congruent = 667.09
+     incongruent : incongruent = 667.22
+
+     CueCondition : CueToTarget : FlankerCongruency
+     valid : 0 : congruent = 629.83
+     valid : 400 : congruent = 579.12
+     valid : 800 : congruent = 580.84
+     double : 0 : congruent = 635.3
+     double : 400 : congruent = 618.76
+     double : 800 : congruent = 632.81
+     valid : 0 : incongruent = 674.21
+     valid : 400 : incongruent = 639.95
+     valid : 800 : incongruent = 629.49
+     double : 0 : incongruent = 701.51
+     double : 400 : incongruent = 674.35
+     double : 800 : incongruent = 684.18
+
+     CueCondition : CueToTarget : LocationCongruency
+     valid : 0 : congruent = 650.81
+     valid : 400 : congruent = 603.56
+     valid : 800 : congruent = 600.66
+     double : 0 : congruent = 679.07
+     double : 400 : congruent = 650.22
+     double : 800 : congruent = 655.2
+     valid : 0 : incongruent = 653.24
+     valid : 400 : incongruent = 615.51
+     valid : 800 : incongruent = 609.67
+     double : 0 : incongruent = 656.72
+     double : 400 : incongruent = 642.89
+     double : 800 : incongruent = 661.79
+
+     CueToTarget : FlankerCongruency : LocationCongruency
+     0 : congruent : congruent = 642.72
+     400 : congruent : congruent = 599.17
+     800 : congruent : congruent = 596.35
+     0 : incongruent : congruent = 687.16
+     400 : incongruent : congruent = 654.61
+     800 : incongruent : congruent = 659.5
+     0 : congruent : incongruent = 622.41
+     400 : congruent : incongruent = 598.71
+     800 : congruent : incongruent = 617.29
+     0 : incongruent : incongruent = 688.27
+     400 : incongruent : incongruent = 659.69
+     800 : incongruent : incongruent = 654.17
+
+     CueCondition : CueToTarget : FlankerCongruency : LocationCongruency
+     valid : 0 : congruent : congruent = 637.93
+     valid : 400 : congruent : congruent = 572.93
+     valid : 800 : congruent : congruent = 574.58
+     valid : 0 : incongruent : congruent = 663.69
+     valid : 400 : incongruent : congruent = 634.19
+     valid : 800 : incongruent : congruent = 626.73
+     valid : 0 : congruent : incongruent = 621.74
+     valid : 400 : congruent : incongruent = 585.31
+     valid : 800 : congruent : incongruent = 587.1
+     valid : 0 : incongruent : incongruent = 684.73
+     valid : 400 : incongruent : incongruent = 645.71
+     valid : 800 : incongruent : incongruent = 632.24
+     double : 0 : congruent : congruent = 647.52
+     double : 400 : congruent : congruent = 625.41
+     double : 800 : congruent : congruent = 618.13
+     double : 0 : incongruent : congruent = 710.63
+     double : 400 : incongruent : congruent = 675.03
+     double : 800 : incongruent : congruent = 692.27
+     double : 0 : congruent : incongruent = 623.08
+     double : 400 : congruent : incongruent = 612.1
+     double : 800 : congruent : incongruent = 647.49
+     double : 0 : incongruent : incongruent = 691.96
+     double : 400 : incongruent : incongruent = 673.67
+     double : 800 : incongruent : incongruent = 676.09
+
+
+
+ANT-VR B (ACC)
+ANOVA Table (type III tests)
+
+$ANOVA
+                                                          Effect DFn DFd      F        p p<.05   pes
+1                                                   CueCondition   1  43  0.297 0.589000       0.007
+2                                                    CueToTarget   2  86  4.036 0.021000     * 0.086
+3                                              FlankerCongruency   1  43 14.720 0.000403     * 0.255
+4                                             LocationCongruency   1  43  0.404 0.528000       0.009
+5                                       CueCondition:CueToTarget   2  86  0.822 0.443000       0.019
+6                                 CueCondition:FlankerCongruency   1  43  3.578 0.065000       0.077
+7                                  CueToTarget:FlankerCongruency   2  86  3.093 0.050000       0.067
+8                                CueCondition:LocationCongruency   1  43  0.216 0.645000       0.005
+9                                 CueToTarget:LocationCongruency   2  86  0.257 0.774000       0.006
+10                          FlankerCongruency:LocationCongruency   1  43  4.453 0.041000     * 0.094
+11                    CueCondition:CueToTarget:FlankerCongruency   2  86  2.683 0.074000       0.059
+12                   CueCondition:CueToTarget:LocationCongruency   2  86  0.162 0.851000       0.004
+13             CueCondition:FlankerCongruency:LocationCongruency   1  43  0.942 0.337000       0.021
+14              CueToTarget:FlankerCongruency:LocationCongruency   2  86  2.670 0.075000       0.058
+15 CueCondition:CueToTarget:FlankerCongruency:LocationCongruency   2  86  0.663 0.518000       0.015
+
+$`Mauchly's Test for Sphericity`
+                                                         Effect     W     p p<.05
+1                                                   CueToTarget 0.902 0.114      
+2                                      CueCondition:CueToTarget 0.921 0.176      
+3                                 CueToTarget:FlankerCongruency 0.820 0.015     *
+4                                CueToTarget:LocationCongruency 0.903 0.117      
+5                    CueCondition:CueToTarget:FlankerCongruency 1.000 0.998      
+6                   CueCondition:CueToTarget:LocationCongruency 0.822 0.016     *
+7              CueToTarget:FlankerCongruency:LocationCongruency 0.901 0.111      
+8 CueCondition:CueToTarget:FlankerCongruency:LocationCongruency 0.862 0.044     *
+
+$`Sphericity Corrections`
+                                                         Effect   GGe      DF[GG] p[GG] p[GG]<.05   HFe      DF[HF] p[HF] p[HF]<.05
+1                                                   CueToTarget 0.911 1.82, 78.31 0.025         * 0.949  1.9, 81.59 0.023         *
+2                                      CueCondition:CueToTarget 0.927 1.85, 79.68 0.435           0.966 1.93, 83.11 0.439          
+3                                 CueToTarget:FlankerCongruency 0.847 1.69, 72.87 0.060           0.878 1.76, 75.54 0.058          
+4                                CueToTarget:LocationCongruency 0.912 1.82, 78.39 0.753           0.950  1.9, 81.68 0.762          
+5                    CueCondition:CueToTarget:FlankerCongruency 1.000    2, 85.99 0.074           1.049  2.1, 90.19 0.074          
+6                   CueCondition:CueToTarget:LocationCongruency 0.849  1.7, 73.03 0.816           0.880 1.76, 75.72 0.824          
+7              CueToTarget:FlankerCongruency:LocationCongruency 0.910 1.82, 78.22 0.081           0.947 1.89, 81.48 0.078          
+8 CueCondition:CueToTarget:FlankerCongruency:LocationCongruency 0.878 1.76, 75.54 0.499           0.913 1.83, 78.51 0.505          
+
+ANOVA results for reporting: 
+CueCondition: F(1,43) = 0.3, p > 0.05, ηp² = 0.007
+CueToTarget: F(2,86) = 4.04, p < 0.05, ηp² = 0.086
+FlankerCongruency: F(1,43) = 14.72, p < 0.001, ηp² = 0.255
+LocationCongruency: F(1,43) = 0.4, p > 0.05, ηp² = 0.009
+CueCondition:CueToTarget: F(2,86) = 0.82, p > 0.05, ηp² = 0.019
+CueCondition:FlankerCongruency: F(1,43) = 3.58, p > 0.05, ηp² = 0.077
+CueToTarget:FlankerCongruency: F(2,86) = 3.09, p > 0.05, ηp² = 0.067
+CueCondition:LocationCongruency: F(1,43) = 0.22, p > 0.05, ηp² = 0.005
+CueToTarget:LocationCongruency: F(2,86) = 0.26, p > 0.05, ηp² = 0.006
+FlankerCongruency:LocationCongruency: F(1,43) = 4.45, p < 0.05, ηp² = 0.094
+CueCondition:CueToTarget:FlankerCongruency: F(2,86) = 2.68, p > 0.05, ηp² = 0.059
+CueCondition:CueToTarget:LocationCongruency: F(2,86) = 0.16, p > 0.05, ηp² = 0.004
+CueCondition:FlankerCongruency:LocationCongruency: F(1,43) = 0.94, p > 0.05, ηp² = 0.021
+CueToTarget:FlankerCongruency:LocationCongruency: F(2,86) = 2.67, p > 0.05, ηp² = 0.058
+CueCondition:CueToTarget:FlankerCongruency:LocationCongruency: F(2,86) = 0.66, p > 0.05, ηp² = 0.015
+
+Main Effects
+     CueCondition
+     valid = 95.36
+     double = 95.74
+
+     CueToTarget
+     0 = 94.03
+     400 = 96.24
+     800 = 96.38
+
+     FlankerCongruency
+     congruent = 97.3
+     incongruent = 93.8
+
+     LocationCongruency
+     congruent = 95.79
+     incongruent = 95.31
+
+     CueCondition : CueToTarget
+     valid : 0 = 94.32
+     valid : 400 = 96.16
+     valid : 800 = 95.6
+     double : 0 = 93.75
+     double : 400 = 96.31
+     double : 800 = 97.16
+
+     CueCondition : FlankerCongruency
+     valid : congruent = 96.5
+     valid : incongruent = 94.22
+     double : congruent = 98.11
+     double : incongruent = 93.37
+
+     CueCondition : LocationCongruency
+     valid : congruent = 95.74
+     valid : incongruent = 94.98
+     double : congruent = 95.83
+     double : incongruent = 95.64
+
+     CueToTarget : FlankerCongruency
+     0 : congruent = 97.3
+     400 : congruent = 97.44
+     800 : congruent = 97.16
+     0 : incongruent = 90.77
+     400 : incongruent = 95.03
+     800 : incongruent = 95.6
+
+     CueToTarget : LocationCongruency
+     0 : congruent = 93.89
+     400 : congruent = 96.73
+     800 : congruent = 96.73
+     0 : incongruent = 94.18
+     400 : incongruent = 95.74
+     800 : incongruent = 96.02
+
+     FlankerCongruency : LocationCongruency
+     congruent : congruent = 96.78
+     congruent : incongruent = 97.82
+     incongruent : congruent = 94.79
+     incongruent : incongruent = 92.8
+
+     CueCondition : CueToTarget : FlankerCongruency
+     valid : 0 : congruent = 95.74
+     valid : 400 : congruent = 97.16
+     valid : 800 : congruent = 96.59
+     double : 0 : congruent = 98.86
+     double : 400 : congruent = 97.73
+     double : 800 : congruent = 97.73
+     valid : 0 : incongruent = 92.9
+     valid : 400 : incongruent = 95.17
+     valid : 800 : incongruent = 94.6
+     double : 0 : incongruent = 88.64
+     double : 400 : incongruent = 94.89
+     double : 800 : incongruent = 96.59
+
+     CueCondition : CueToTarget : LocationCongruency
+     valid : 0 : congruent = 94.03
+     valid : 400 : congruent = 96.88
+     valid : 800 : congruent = 96.31
+     double : 0 : congruent = 93.75
+     double : 400 : congruent = 96.59
+     double : 800 : congruent = 97.16
+     valid : 0 : incongruent = 94.6
+     valid : 400 : incongruent = 95.45
+     valid : 800 : incongruent = 94.89
+     double : 0 : incongruent = 93.75
+     double : 400 : incongruent = 96.02
+     double : 800 : incongruent = 97.16
+
+     CueToTarget : FlankerCongruency : LocationCongruency
+     0 : congruent : congruent = 96.88
+     400 : congruent : congruent = 96.02
+     800 : congruent : congruent = 97.44
+     0 : incongruent : congruent = 90.91
+     400 : incongruent : congruent = 97.44
+     800 : incongruent : congruent = 96.02
+     0 : congruent : incongruent = 97.73
+     400 : congruent : incongruent = 98.86
+     800 : congruent : incongruent = 96.88
+     0 : incongruent : incongruent = 90.63
+     400 : incongruent : incongruent = 92.61
+     800 : incongruent : incongruent = 95.17
+
+     CueCondition : CueToTarget : FlankerCongruency : LocationCongruency
+     valid : 0 : congruent : congruent = 96.02
+     valid : 400 : congruent : congruent = 96.59
+     valid : 800 : congruent : congruent = 97.16
+     valid : 0 : incongruent : congruent = 92.05
+     valid : 400 : incongruent : congruent = 97.16
+     valid : 800 : incongruent : congruent = 95.45
+     valid : 0 : congruent : incongruent = 95.45
+     valid : 400 : congruent : incongruent = 97.73
+     valid : 800 : congruent : incongruent = 96.02
+     valid : 0 : incongruent : incongruent = 93.75
+     valid : 400 : incongruent : incongruent = 93.18
+     valid : 800 : incongruent : incongruent = 93.75
+     double : 0 : congruent : congruent = 97.73
+     double : 400 : congruent : congruent = 95.45
+     double : 800 : congruent : congruent = 97.73
+     double : 0 : incongruent : congruent = 89.77
+     double : 400 : incongruent : congruent = 97.73
+     double : 800 : incongruent : congruent = 96.59
+     double : 0 : congruent : incongruent = 100
+     double : 400 : congruent : incongruent = 100
+     double : 800 : congruent : incongruent = 97.73
+     double : 0 : incongruent : incongruent = 87.5
+     double : 400 : incongruent : incongruent = 92.05
+     double : 800 : incongruent : incongruent = 96.59
+
+
+----------------------------------------------------------------------------

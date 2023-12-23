@@ -1,0 +1,41 @@
+---
+title: "CueToTargetIntervalByCueType"
+shorttitle : "&nbsp;"
+author: 
+  - name: "Tekampe & Sulaj"
+date: "`r Sys.Date()`"
+header-includes:
+   - \pagenumbering{gobble}
+   - \usepackage{caption}
+
+bibliography      : "r-references.bib"
+
+floatsintext      : no
+linenumbers       : no
+draft             : no
+mask              : no
+
+figurelist        : no
+tablelist         : no
+footnotelist      : no
+
+classoption       : "man"
+output            : papaja::apa6_pdf
+---
+
+```{r setup, include=FALSE}
+library("papaja")
+r_refs("r-references.bib")
+```
+
+\captionsetup[table]{labelformat=empty}
+
+# Results
+```{r plotting tables}
+getCueToTargetIntervalByCueType_ANT_R_RT_All()
+getCueToTargetIntervalByCueType_ANT_R_ACC_All()
+getCueToTargetIntervalByCueType_ANT_VR_RT_All()
+getCueToTargetIntervalByCueType_ANT_VR_ACC_All()
+getCueToTargetIntervalByCueType_ANT_VR_B_RT_All()
+getCueToTargetIntervalByCueType_ANT_VR_B_ACC_All()
+```
