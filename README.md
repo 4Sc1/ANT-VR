@@ -33,7 +33,7 @@ Additionally, `LICENSE.txt` files are present in some folders. We strongly urge 
 
 ## Contributing
 
-Your contributions are highly valued. If you have suggestions, bug reports, or contributions, feel free to open an issue or a pull request in this repository. Ensure that your contributions are in line with the guidelines specified in the `CONTRIBUTING.md` file.
+Your contributions are highly valued. If you have suggestions, bug reports, or contributions, feel free to open an issue or a pull request in this repository.
 
 ## Citation
 
