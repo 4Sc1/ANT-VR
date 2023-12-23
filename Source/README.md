@@ -4,7 +4,7 @@ Welcome to the ANT-VR and ANT-R data analysis and tools folder. In the spirit of
 
 ## Folder Structure
 
-- **Data-Analysis:** This subfolder contains source code created to analyze the results of ANT-VR and ANT-R experiments. It includes tools and scripts for processing and interpreting experimental data.
+- **Data-Analysis:** This subfolder contains source code created to analyze the data of ANT-VR and ANT-R experiments. It includes tools and scripts for processing and interpreting experimental data.
 
 - **ANT-R Script Augmentations:** Augmentation code for integrating LSL4EPrime with the original ANT-R study source code, enabling event marker streaming via LabStreamingLayer.
 
