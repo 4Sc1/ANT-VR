@@ -12,7 +12,7 @@ Welcome to the ANT-VR repository. This repository is a comprehensive resource fo
 
 4. **Source\Data-Analysis:** Scripts to process, analyze, and visualize the study data effectively.
 
-5. **Results:** In-depth results and findings of our study, including statistical analyses and interpretive insights.
+5. **Results:** In-depth results of our study.
 
 :exclamation: Important: Data Setup Instructions
 Before running the Data-Analysis code, please follow these steps to ensure proper setup:
@@ -33,7 +33,7 @@ Additionally, `LICENSE.txt` files are present in some folders. We strongly urge 
 
 ## Contributing
 
-Your contributions are highly valued. If you have suggestions, bug reports, or contributions, feel free to open an issue or a pull request in this repository. Ensure that your contributions are in line with the guidelines specified in the `CONTRIBUTING.md` file.
+Your contributions are highly valued. If you have suggestions, bug reports, or contributions, feel free to open an issue or a pull request in this repository.
 
 ## Citation
 
