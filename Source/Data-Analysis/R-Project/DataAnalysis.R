@@ -1,3 +1,9 @@
+if (!require(renv)) {
+  install.packages("renv")
+}
+
+library(renv)
+
 options(scipen = 999)
 
 getRoundedValue <- function(originalValue, numberOfDigits) {

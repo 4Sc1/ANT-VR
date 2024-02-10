@@ -1,8 +1,10 @@
-options(scipen = 999)
+if (!require(renv)) {
+  install.packages("renv")
+}
 
-install.packages("extrafont")
-library(extrafont)
-font_import()
+library(renv)
+
+options(scipen = 999)
 
 # Tables
 
