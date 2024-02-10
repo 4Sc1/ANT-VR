@@ -1,8 +1,7 @@
-# VR-Processor and VR-UnitTest
+# VR-Processor and ResultTranslator
 
 ## Introduction
-This code is designed to help you process and translate results from the ANT-VR application. The primary goal is to convert the JSON-formatted results into text files, which are in the same format as those produced when exporting results from ANT-R in E-Prime 2.0.
-We will provide a Python version of this code ASAP.
+This code is designed to help you process and translate results from the `ANT-VR` application. The primary goal is to convert the JSON-formatted results into text files, which are in the same format as those produced when exporting results from `ANT-R` in E-Prime 2.0.
 
 ## Getting Started
 
@@ -25,7 +24,7 @@ The `ResultTranslator project contains the script that performs the result trans
 
 ## Result Translation
 
-The script in the Python project will process the JSON-formatted results from the ANT-VR application and generate text result files similar to those produced by ANT-R in E-Prime 2.0. The translated result files will be available in a specified output directory.
+The script in the Python project will process the JSON-formatted results from the `ANT-VR` application and generate text result files similar to those produced by `ANT-R` in E-Prime 2.0. The translated result files will be available in a specified output directory.
 
 ## License
 
@@ -35,3 +34,11 @@ To the remaining source code, the license stated in the LICENSE.txt file applies
 ## Support and Contact
 
 For inquiries, questions, or collaboration opportunities, please reach out to us through our GitHub repository or contact us via email at [David Tekampe](mailto:davidtekampe@icloud.com) or [Philipp Tekampe](mailto:tekampe@outlook.com).
+
+## Attributions
+
+`ANT-VR` result translation utilizes third-party software, and we are thankful for the contributions of their authors and maintainers. Their work significantly enhances our project.
+
+- **Math.NET** - License: MIT. (<https://github.com/mathnet>).
+- **Newtonsoft.Json** - License: MIT. Author: James Newton-King. (<https://www.newtonsoft.com/json>).
+- **clr** - License: MIT. Author: lmittmann. (<https://pypi.org/project/clr/>).

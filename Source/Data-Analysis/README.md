@@ -24,4 +24,5 @@ Before using any of the code or resources provided in this folder, it is crucial
 These documents contain essential information, usage guidelines, and licensing terms that must be followed during the use of the code and associated resources.
 
 ## Support and Contact
+
 For inquiries, questions, or collaboration opportunities, please reach out to us through our GitHub repository or contact us via email at [David Tekampe](mailto:davidtekampe@icloud.com) or [Philipp Tekampe](mailto:tekampe@outlook.com).
