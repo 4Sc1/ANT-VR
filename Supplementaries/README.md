@@ -24,4 +24,4 @@ The questionnaire is provided here for academic and research purposes. If you pl
 
 ## Contact
 
-For more information or specific inquiries related to the ANT-VR study or the materials in this folder, please contact [davidtekampe@icloud.com](mailto:davidtekampe@icloud.com).
+For more information or specific inquiries related to the ANT-VR study or the materials in this folder, please contact [David Tekampe](mailto:davidtekampe@icloud.com).

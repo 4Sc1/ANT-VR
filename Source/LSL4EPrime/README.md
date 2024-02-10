@@ -34,6 +34,12 @@ In the spirit of Open Science, we are sharing the source code of `LSL4EPrime` wi
 
 ## Support and Contact
 
-For inquiries, questions, or collaboration opportunities, please reach out to us through our GitHub repository or contact us via email at [davidtekampe@icloud.com](mailto:davidtekampe@icloud.com) or [tekampe@outlook.com](mailto:tekampe@outlook.com).
+For inquiries, questions, or collaboration opportunities, please reach out to us through our GitHub repository or contact us via email at [David Tekampe](mailto:davidtekampe@icloud.com) or [Philipp Tekampe](mailto:tekampe@outlook.com).
+Thank you for considering `LSL4EPrime` for your research needs. We hope to contribute to the field of EEG research with this tool and we take pride in our commitment to Open Science.
 
-Thank you for considering `LSL4EPrime` for your research needs. We take pride in contributing to the field of EEG research with this tool and our commitment to Open Science.
+## Attribution
+
+`LSL4EPrime` utilizes third-party software, and we are thankful for the contributions of their authors and maintainers. Their work significantly enhances our project.
+
+- **Processing Global Mouse and Keyboard Hooks in C#**- License: CPOL 1.02. Author: George Mamaladze. (<https://www.codeproject.com/Articles/7294/Processing-Global-Mouse-and-Keyboard-Hooks-in-C>).
+- **liblsl-C#** - License: MIT. Author: Christian Kothe. (<https://github.com/labstreaminglayer/liblsl-Csharp>).

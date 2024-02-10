@@ -14,6 +14,6 @@ Welcome to the ANT-VR and ANT-R data analysis and tools folder. In the spirit of
 
 ## Support and Contact
 
-For inquiries, questions, or collaboration opportunities, please reach out to us through our GitHub repository or contact us via email at [davidtekampe@icloud.com](mailto:davidtekampe@icloud.com) or [tekampe@outlook.com](mailto:tekampe@outlook.com).
+For inquiries, questions, or collaboration opportunities, please reach out to us through our GitHub repository or contact us via email at [David Tekampe](mailto:davidtekampe@icloud.com) or [Philipp Tekampe](mailto:tekampe@outlook.com).
 
 Please navigate to the specific subfolder that corresponds to your area of interest and refer to the respective README.md files and license information for additional details on usage and licensing terms. Your commitment to open science is appreciated, and we encourage collaboration and sharing of knowledge in the research community.

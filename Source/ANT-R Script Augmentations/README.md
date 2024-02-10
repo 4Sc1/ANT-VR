@@ -20,4 +20,4 @@ For any issues, suggestions, or contributions, please open an issue in the main 
 
 ## Contact
 
-For inquiries, questions, or collaboration opportunities, please reach out to us through our GitHub repository or contact us via email at [davidtekampe@icloud.com](mailto:davidtekampe@icloud.com) or [tekampe@outlook.com](mailto:tekampe@outlook.com).
+For inquiries, questions, or collaboration opportunities, please reach out to us through our GitHub repository or contact us via email at [David Tekampe](mailto:davidtekampe@icloud.com) or [Philipp Tekampe](mailto:tekampe@outlook.com).

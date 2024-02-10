@@ -41,4 +41,4 @@ For utilizing our software, data, or findings in your research, please cite our 
 
 ## Contact
 
-For further questions or potential collaborations, reach out to [davidtekampe@icloud.com](mailto:davidtekampe@icloud.com).
+For further questions or potential collaborations, reach out to [David Tekampe](mailto:davidtekampe@icloud.com).
