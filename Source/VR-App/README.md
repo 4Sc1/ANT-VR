@@ -52,7 +52,7 @@ Please note that while we adhere to Open Science standards, certain constraints 
 
 `ANT-VR` collects and saves assessment results in JSON files on the headset. To facilitate the analysis, copy them to a PC and follow these steps:
 
-1. **Translation**: Run the unit test located in the `Data-Analysis\ResultTranslation` folder to translate the JSON result files into a format suitable for analysis.
+1. **Translation**: Run the Python script located in the `Data-Analysis\ResultTranslation` folder to translate the JSON result files into a format suitable for analysis.
 
 2. **Analysis Scripts**: Utilize the analysis scripts provided in the R-project to process and analyze the translated results. These scripts are designed to assist researchers in gaining insights from the data collected during experiments.
 
