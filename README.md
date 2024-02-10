@@ -39,7 +39,8 @@ Your contributions are highly valued. If you have suggestions, bug reports, or c
 
 ## Citation
 
-For utilizing our software, data, or findings in your research, please cite our work:
+For utilizing our software, please cite our work:
+
 Tekampe, D. L., & Tekampe, P. D. (2024). 4Sc1/ANT-VR (v.1.0.1). Zenodo. https://doi.org/10.5281/zenodo.10644809
 
 ## Contact
