@@ -1,5 +1,7 @@
 # ANT-VR Repository
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10694656.svg)](https://doi.org/10.5281/zenodo.10694656)
+
 Welcome to the ANT-VR repository. This repository is a comprehensive resource for our ANT-VR study, adhering to the principles of Open Science.
 
 ## Repository Contents
