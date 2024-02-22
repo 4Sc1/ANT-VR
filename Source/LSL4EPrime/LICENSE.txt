@@ -1,6 +1,6 @@
 MIT License
 
-Copyright 2022 Philipp Tekampe, David Levi Tekampe
+Copyright 2022 David Levi Tekampe, Anxhela Sulaj, Michael Schwartze, Lars Hausfeld, and Philipp Tekampe
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

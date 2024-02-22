@@ -1,12 +1,12 @@
 License Type: The research results presented in this folder and sub folders are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 Licensors:
-	Research Results: Provided by David Levi Tekampe and Anxhela Sulaj.
+	Research Results: Provided by David Levi Tekampe, Anxhela Sulaj, Michael Schwartze, Lars Hausfeld, and Philipp Tekampe.
 	Underlying Data: Originates from Maastricht University.
 
 Original Data License: The underlying data utilized in this research is also licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0), consistent with the licensing of these results.
 
-Data Accessibility: The original data can be accessed at Maastricht University's repository on Dataverse.nl.
+Data Accessibility: The original data can be accessed at Maastricht University's repository on dataverse.nl at doi 10.31234/osf.io/tfc9g.
 
 License Details: For a comprehensive understanding of your rights and obligations under this license, please refer to the full license text available at the Creative Commons website: Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
